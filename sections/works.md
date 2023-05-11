@@ -4,14 +4,10 @@ The word “song” does not apply to all music. Use it only when referring to a
 Genres are <span style="text-decoration:underline;">not</span> capitalized and do not require italics:
 
 	Mozart was a master of opera and the concerto.
-	
 	The symphony is an important Romantic genre.
-
 	In this madrigal by Marenzio we hear a number of remarkable dissonances.
-
-    	Charlie Parker was a key figure in the transition from swing to bebop.
-
-    	By infusing traditional country with rock, Garth Brooks secured a massive following.  
+	Charlie Parker was a key figure in the transition from swing to bebop.
+	By infusing traditional country with rock, Garth Brooks secured a massive following.  
 
 <span style="text-decoration:underline;">Generic</span> titles of specific works <span style="text-decoration:underline;">are</span> capitalized but do not require italics. (As shown below, however, italics are used for other kinds of titles.)
 

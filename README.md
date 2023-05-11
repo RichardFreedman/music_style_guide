@@ -14,7 +14,8 @@ University of Chicago Press. 2017.  _The Chicago Manual of Style Online_, 17th e
 [Visit the Author-Date examples from the CMS](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html), which is the standard to be used for references to books, scores, journal articles, etc.
 
 ### Contents of Writing about Music 
-
+-----
 [Referring to Musical Works]
 [Other Musical Terminology]
 [Hyphens and Dashes]
+-----

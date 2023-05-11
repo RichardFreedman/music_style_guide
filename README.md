@@ -9,3 +9,5 @@ This is a style guide for formal writing in Tri-Co music courses. It is based on
 Holoman, D. Kern. 2014. _Writing about Music: A Style Sheet_, 3rd ed. Oakland: University of California Press.
 
 University of Chicago Press. 2017.  _The Chicago Manual of Style Online_, 17th ed. Chicago: University of Chicago Press.  Visit the guide online (from any campus network):  [https://www.chicagomanualofstyle.org/home.html](https://www.chicagomanualofstyle.org/home.html)
+
+[Visit the Author-Date examples from the CMS](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html), which is the standard to be used for references to books, scores, journal articles, etc.

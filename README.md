@@ -17,7 +17,7 @@ University of Chicago Press. 2017.  _The Chicago Manual of Style Online_, 17th e
 
 -----
 
-[Referring to Musical Works]
+[Referring to Musical Works](sections/works.md)
 [Other Musical Terminology]
 [Hyphens and Dashes]
 

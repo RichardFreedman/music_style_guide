@@ -13,7 +13,7 @@ Capitalize letters that specify pitches and keys. Do not use the number sign in 
 As shown below in the section on hyphens, write sharp and flat keys like this: 
 
 	C-sharp minor
-  E-flat major 
+	E-flat major 
 
 When necessary use subscripts to specify the octave of a pitch. See Holoman for a comprehensive presentation of pitch-naming conventions.
 
@@ -29,7 +29,7 @@ Whenever possible, use phrases like “common time,” “triple meter,” and �
 
 Given the challenges of typing roman-numeral chords with figures, write out chord names.
 
-    The accompaniment vacillates between a first-inversion tonic triad and a third-inversion dominant-seventh chord. 
+	The accompaniment vacillates between a first-inversion tonic triad and a third-inversion dominant-seventh chord. 
 
 Write out the word “measure” and numbers under 100 unless they are in parentheses.
 

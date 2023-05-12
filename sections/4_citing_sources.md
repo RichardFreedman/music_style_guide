@@ -40,3 +40,19 @@ For information about dates and performers, you can turn to the cover and notes 
 **Liner notes to recordings** are a special case, but are often worth citing for special insights about from the artists, or the nature of the project, or even for scholarly content:
 
         Marissen, Michael. 2010. Liner Notes to Accompany Johann Sebastian Bach,  _St.   Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi. 
+
+-----
+
+### Contents of This Guide
+
+- [Referring to Musical Works](sections/1_works.md)
+- [Terminology, Hyphens and Dashes](sections/2_terms.md)
+- [Writing About the Past](sections/3_past.md)
+- [Citing Sources](sections/4_citing_sources.md)
+- [Examples and Fair Use](sections/5_examples_intro.md)
+- [Score Examples](sections/6_score_example.md)
+- [Audio Examples](sections/7_audio_examples.md)
+- [Video Examples](sections/8_video_example.md)
+- [Transcriptions and Figures](sections/9_transcriptions_figures.md)
+
+-----

@@ -8,8 +8,11 @@ What can you use as an audio example, and how will your reader know where you fo
 
 * Finally, the file for **each example (mp3, mp4) will need to be accessible** for your readers via Gdrive, Box, or in a WordPress site.
 
-* Watch demonstration of software for creating audio examples [here](https://haverford.app.box.com/file/934628633661?s=rx573ab4v3j5yolf6zmu6tnnik371m7f).
+#### How to Make Audio Excerpts
 
+* Watch demonstration of software for creating audio examples with Hijack, Fission, Reaper, and Camtasia [here](https://haverford.app.box.com/file/934628633661?s=rx573ab4v3j5yolf6zmu6tnnik371m7f).
+
+#### How to Find and Cite Audio Sources
 
 There are various ways to obtain and document your examples.
 

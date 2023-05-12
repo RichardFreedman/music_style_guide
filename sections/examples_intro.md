@@ -16,7 +16,7 @@ Materials published more than one hundred years ago are normally in the public d
 
 The American Musicological Society has published a more detailed [Fair Use guide](https://drive.google.com/file/d/1jOVB9BDb7nCCR9Fqa7OQ3kk9jLxDy5U0/view?usp=sharing). Familiarize yourself with this and be sure to consult your professor or librarian with any questions concerning the use of copyrighted material in your writing.
 
-### The Parts of an Example {#the-parts-of-an-example}
+### The Parts of an Example
 
 An example has three components:
 

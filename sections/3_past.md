@@ -46,3 +46,19 @@ As a general rule, use the past tense when writing about the past, especially wh
 Use the present tense when describing or analyzing music, even if it was written a long time ago. In the thick of a musical discussion, it can be appropriate to describe a composer’s actions in the present tense.
 
     The primary theme is cheerful, but Mozart veers into the minor mode in the subsequent transition.  
+
+-----
+
+### Contents of This Guide
+
+- [Referring to Musical Works](sections/1_works.md)
+- [Terminology, Hyphens and Dashes](sections/2_terms.md)
+- [Writing About the Past](sections/3_past.md)
+- [Citing Sources](sections/4_citing_sources.md)
+- [Examples and Fair Use](sections/5_examples_intro.md)
+- [Score Examples](sections/6_score_example.md)
+- [Audio Examples](sections/7_audio_examples.md)
+- [Video Examples](sections/8_video_example.md)
+- [Transcriptions and Figures](sections/9_transcriptions_figures.md)
+
+-----

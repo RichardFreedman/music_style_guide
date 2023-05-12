@@ -1,6 +1,6 @@
 ### Score Examples
 
-1. **Download a PDF from [IMSLP](https://imslp.org/), **a free archive of scores mostly in the public domain. With the exception of those flagged as _Non-PD US_, you may use these editions in any way you like. Let's say you're writing about [the first volume of J.S. Bach's Well Tempered Clavier](https://imslp.org/wiki/Das_wohltemperierte_Klavier_I,_BWV_846-869_(Bach,_Johann_Sebastian)). In the case of a well known work like this, there are many printed editions to choose from, even manuscripts. If you have questions, Haverford’s music librarian Guillermo Gómez (ggomez1@haverford.edu) will help you navigate results.
+1. **Download a PDF from [IMSLP](https://imslp.org/)**, a free archive of scores mostly in the public domain. With the exception of those flagged as _Non-PD US_, you may use these editions in any way you like. Let's say you're writing about [the first volume of J.S. Bach's Well Tempered Clavier](https://imslp.org/wiki/Das_wohltemperierte_Klavier_I,_BWV_846-869_(Bach,_Johann_Sebastian)). In the case of a well known work like this, there are many printed editions to choose from, even manuscripts. If you have questions, Haverford’s music librarian Guillermo Gómez (ggomez1@haverford.edu) will help you navigate results.
 
     **If the score you need is not available on IMSLP, get a hard copy from the library**. Guillermo can assist you. He can also advise you on copyright and usage. 
 

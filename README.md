@@ -15,7 +15,7 @@ University of Chicago Press. 2017.  _The Chicago Manual of Style Online_, 17th e
 
 -----
 
-### Contents of Writing about Music 
+### Contents of This Guide
 
 - [Referring to Musical Works](sections/works.md)
 - [Other Musical Terminology](sections/terms.md)

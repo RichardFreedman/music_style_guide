@@ -4,7 +4,7 @@ To support its thesis, a music research essay references specific evidence in th
 
 ### Fair Use and Intellectual Property {#fair-use-and-intellectual-property}
 
-In the classroom we have wide latitude with respect to what is called the Fair Use** **of copyrighted materials like musical works and their derivatives (printed scores, sound recordings, etc). The same is true of images, films, or other multimedia materials that we might consider the context of the classroom. But particularly as we think about publishing works of criticism, history, and analysis, we must understand Fair Use in order to respect the intellectual property of others.
+In the classroom we have wide latitude with respect to what is called the **Fair Use** of copyrighted materials like musical works and their derivatives (printed scores, sound recordings, etc). The same is true of images, films, or other multimedia materials that we might consider the context of the classroom. But particularly as we think about publishing works of criticism, history, and analysis, we must understand Fair Use in order to respect the intellectual property of others.
 
 Fair Use is a complex topic, and there are few hard-and-fast rules about exactly how much of a copyrighted work can be reproduced without obtaining explicit permission. Indeed, the concept of Fair Use hinges on the idea that permission is _not needed _provided scholars do the following:
 

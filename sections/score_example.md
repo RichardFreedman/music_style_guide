@@ -17,6 +17,6 @@
 
 5. **At the end of your essay, create a list of examples that provides citations**. Format score citations in the same manner as book citations, and use note format here. See the rules for citations elsewhere in this guide.    
 
-        **List of Examples**
+        List of Examples
 
         1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, _Das Wohltemperierte Klavier_, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7.

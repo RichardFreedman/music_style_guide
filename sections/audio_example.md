@@ -62,4 +62,4 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 
         List of Audio Examples
 
-        Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from *Il Settimo libro di madrigali*, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.
+        Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from Il Settimo libro di madrigali, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.

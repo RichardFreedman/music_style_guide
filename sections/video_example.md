@@ -1,5 +1,13 @@
 ### Video Examples
 
+Like audio examples, video examples are forms of evidence, and can be a great way to help your reader follow arguments about operas, films, and performances.
+
+### How to Make Video Excerpts
+
+* Watch demonstration of software for creating video examples with Camtasia [here](https://haverford.app.box.com/file/934628633661?s=rx573ab4v3j5yolf6zmu6tnnik371m7f).
+
+### How to Find and Cite Video Sources
+
 1. **Choose from the viewing resources listed [here](https://guides.tricolib.brynmawr.edu/c.php?g=285015&p=1899330), or get a DVD from the College library**. In certain cases (e.g., ethnographic material or a video hosted by an organization like the Curtis Institute or the Philadelphia Orchestra), you might need to draw content from elsewhere. Discuss such exceptions with your professor. 
 
     Otherwise, for the sake of accuracy, accessibility, and copyright compliance, **do not use YouTube** or any other non-listed service in a music essay at Haverford.

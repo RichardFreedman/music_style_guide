@@ -35,3 +35,18 @@ Write out the word “measure” and numbers under 100 unless they are in parent
 
 	The oboe solo begins in measure twenty-six.
 	The theme repeatedly leaps upward (mm. 2, 4, 6) before descending by step (m. 8). 
+-----
+
+### Contents of This Guide
+
+- [Referring to Musical Works](sections/1_works.md)
+- [Terminology, Hyphens and Dashes](sections/2_terms.md)
+- [Writing About the Past](sections/3_past.md)
+- [Citing Sources](sections/4_citing_sources.md)
+- [Examples and Fair Use](sections/5_examples_intro.md)
+- [Score Examples](sections/6_score_example.md)
+- [Audio Examples](sections/7_audio_examples.md)
+- [Video Examples](sections/8_video_example.md)
+- [Transcriptions and Figures](sections/9_transcriptions_figures.md)
+
+-----

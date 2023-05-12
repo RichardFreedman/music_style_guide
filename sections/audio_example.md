@@ -60,6 +60,6 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 
 10. **If you haven’t already done so, establish a list of examples at the end of your essay.** See the Music Dept. Style Sheet on how to format a audio citation, following note format. 
 
-**List of Audio Example**
+        List of Audio Examples
 
-        Audio Example 3.  The opening of Claudio Monteverdi’s “Tornato,” from _Il Settimo libro di madrigali_, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.
+        Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from _Il Settimo libro di madrigali_, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.

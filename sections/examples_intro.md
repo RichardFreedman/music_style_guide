@@ -1,8 +1,8 @@
-### Introduction  {#introduction}
+### Introduction
 
 To support its thesis, a music research essay references specific evidence in the form of excerpts from scores and recordings.
 
-### Fair Use and Intellectual Property {#fair-use-and-intellectual-property}
+### Fair Use and Intellectual Property
 
 In the classroom we have wide latitude with respect to what is called the **Fair Use** of copyrighted materials like musical works and their derivatives (printed scores, sound recordings, etc). The same is true of images, films, or other multimedia materials that we might consider the context of the classroom. But particularly as we think about publishing works of criticism, history, and analysis, we must understand Fair Use in order to respect the intellectual property of others.
 

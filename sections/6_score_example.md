@@ -20,3 +20,19 @@
         List of Examples
 
         1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, _Das Wohltemperierte Klavier_, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7.
+
+-----
+
+### Contents of This Guide
+
+- [Referring to Musical Works](sections/1_works.md)
+- [Terminology, Hyphens and Dashes](sections/2_terms.md)
+- [Writing About the Past](sections/3_past.md)
+- [Citing Sources](sections/4_citing_sources.md)
+- [Examples and Fair Use](sections/5_examples_intro.md)
+- [Score Examples](sections/6_score_example.md)
+- [Audio Examples](sections/7_audio_examples.md)
+- [Video Examples](sections/8_video_example.md)
+- [Transcriptions and Figures](sections/9_transcriptions_figures.md)
+
+-----

@@ -38,10 +38,7 @@ There are various ways to obtain and document your examples.
 
 7. **Add a citation for this example to the list at the end of your essay**:
 
-        Audio Example 1. Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05
-
-**Audio Examples**
-
+        Audio Examples
         Audio Example 1: Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
 
 **Option B:  Make an MP3 Excerpt and Link to it via Gdrive, Box, or WordPress**

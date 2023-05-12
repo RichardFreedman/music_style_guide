@@ -1,6 +1,6 @@
 ### Audio Examples
 
-* What can you use as an audio example, and how will your reader know where you found it and how to access it?  
+What can you use as an audio example, and how will your reader know where you found it and how to access it?  
 
 * Remember that according to **Fair Use** principles, you need to extract the _minimum_ needed to make your point, and to surround the excerpt with commentary or mark it up in some way.
 

@@ -13,19 +13,23 @@ Sometimes you might need to make an original transcription of a performance (rec
 
     1. Gertrude “Ma” Rainey, “Blues the World Forgot,” Paramount, 1927, 0:55–1:05.  Original transcription by the author.
 
-### Figures {#figures}
+### Figures 
 
-Figures include tables, diagrams, charts, and images (but not score excerpts, transcriptions, or video stills, which are treated above).   You can rather easily create these with Google Draw (even marking up some musical example loaded there as a PNG file.
+Figures include tables, diagrams, charts, and images (but **not score excerpts or transcriptions**, which are treated above). For images, you should seek out authorized images from museums or collections, such as those assembled on  [Named Link](https://www.artstor.org/ "ArtStor"), which is easily available via Tripod.  Diagrams, charts, or other custom markup can be created with Google Draw. 
+
+Save your Figure in PNG format for use in Word, Google Docs, or WordPress.
 
 Unless figures are prohibitively large, label them as follows and include them in the body of your essay. Note the use of boldface, and be sure to number figures separately from examples.
 
-    **Figure 1. **Form of Beethoven’s String Quartet in C Major, Op. 59, no. 3, mvmt. 1 (1808)
+For example:
+
+        ![screenshot_1361](https://github.com/RichardFreedman/music_style_guide/assets/4398776/83ee541e-d028-4649-b548-14e502b8fbc6)
+
+        **Figure 1.** Cariani, Italian. c. 1518-1520. A Concert. Painting. Place: The National Gallery of Art (Washington, D.C.), http://library.artstor.org/asset/ANGAIG_10313966926
 
 
-        [diagram appears here]
+Or:
 
-
-        
-
-
-    **Figure 2.** _Le Russe prenant une Leçon de Grace à Paris_. Paris: Paul André Basset, 1815. Anne S.K. Brown Military Collection, Brown University Library. 
+     ![screenshot_1362](https://github.com/RichardFreedman/music_style_guide/assets/4398776/063a6c8a-49eb-4fdc-a7c9-5419dcf219ec)
+     
+        **Figure 2.** Distribution of Cadences in Pieces by Josquin des Prez and Antoine de Févin produced the CRIM Intervals system.

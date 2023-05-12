@@ -1,5 +1,5 @@
 ### Citing Written Sources
-We use the **Author-Date **system for referencing writings about music, scores, and other supporting evidence.  In it, You can read more about the system here on the [Chicago Manual of Style web resource.](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
+We use the **Author-Date** system for referencing writings about music, scores, and other supporting evidence.  In it, You can read more about the system here on the [Chicago Manual of Style web resource.](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
 
 It’s seldom necessary to clutter your narrative with titles and dates of scholarly works. It’s normally sufficient to name the author, relying on the subsequent Author-Date (plus page) reference to provide the remaining information.  Readers then turn to your bibliography of list of works cited to learn more about the details of the fact of publication.
 

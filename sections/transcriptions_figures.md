@@ -23,13 +23,13 @@ Unless figures are prohibitively large, label them as follows and include them i
 
 For example:
 
-        ![screenshot_1361](https://github.com/RichardFreedman/music_style_guide/assets/4398776/83ee541e-d028-4649-b548-14e502b8fbc6)
+![screenshot_1361](https://github.com/RichardFreedman/music_style_guide/assets/4398776/83ee541e-d028-4649-b548-14e502b8fbc6)
 
         **Figure 1.** Cariani, Italian. c. 1518-1520. A Concert. Painting. Place: The National Gallery of Art (Washington, D.C.), http://library.artstor.org/asset/ANGAIG_10313966926
 
 
 Or:
 
-     ![screenshot_1362](https://github.com/RichardFreedman/music_style_guide/assets/4398776/063a6c8a-49eb-4fdc-a7c9-5419dcf219ec)
+![screenshot_1362](https://github.com/RichardFreedman/music_style_guide/assets/4398776/063a6c8a-49eb-4fdc-a7c9-5419dcf219ec)
      
         **Figure 2.** Distribution of Cadences in Pieces by Josquin des Prez and Antoine de Févin produced the CRIM Intervals system.

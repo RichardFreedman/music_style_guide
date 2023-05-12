@@ -21,9 +21,9 @@ Modern orchestras tune to an A<sub>4</sub>. C<sub>4</sub> is commonly known as m
 
 The words “major” and “minor” are not capitalized unless they form part of a title. Do not use case to differentiate between major and minor. 
 
-INCORRECT: Beethoven’s Fifth Symphony is in c minor.
+	INCORRECT: Beethoven’s Fifth Symphony is in c minor.
 
-CORRECT: Beethoven’s Fifth Symphony is in C minor.
+	CORRECT: Beethoven’s Fifth Symphony is in C minor.
 
 Whenever possible, use phrases like “common time,” “triple meter,” and “duple meter” to avoid writing time signatures as fractions. 
 

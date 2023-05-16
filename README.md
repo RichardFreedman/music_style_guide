@@ -5,7 +5,7 @@ Last Revised:  January 2022
 
 ### Introduction 
 
-This is a style guide for formal writing in Tri-Co music courses. It is based on the following two sources, which you can access via Tripod, the Tri-College Library catalog (from [BMC](tripod.brynmawr.edu), from [HC](tripod.haverford.edu), from [SC](tripod.swarthmore.edu)) for further guidance. For instructions on including score, audio, and video examples in your essay, consult the Tri-Co’s [Music Example Guide](https://docs.google.com/document/d/1alBeVyXkABBwWlTiCMGBLB3hoO5f4sMm4wMnTVzDM4Y/edit).
+This is a style guide for formal writing in Tri-Co music courses. It is based on the following two sources, which you can access via Tripod, the Tri-College Library catalog (from [tripod.brynmawr.edu](https://tripod.brynmawr.edu/discovery/search?vid=01TRI_INST:BMC), from [HC](tripod.haverford.edu), from [SC](tripod.swarthmore.edu)) for further guidance. For instructions on including score, audio, and video examples in your essay, consult the Tri-Co’s [Music Example Guide](https://docs.google.com/document/d/1alBeVyXkABBwWlTiCMGBLB3hoO5f4sMm4wMnTVzDM4Y/edit).
 
 Holoman, D. Kern. 2014. _Writing about Music: A Style Sheet_, 3rd ed. Oakland: University of California Press.
 

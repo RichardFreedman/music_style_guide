@@ -51,7 +51,7 @@ Although they illustrate the same point, the two examples are numbered and cited
 - [Citing Sources](sections/4_citing_sources.md)
 - [Examples and Fair Use](sections/5_examples_intro.md)
 - [Score Examples](sections/6_score_example.md)
-- [Audio Examples](sections/7_audio_examples.md)
+- [Audio Examples](sections/7_audio_example.md)
 - [Video Examples](sections/8_video_example.md)
 - [Transcriptions and Figures](sections/9_transcriptions_figures.md)
 

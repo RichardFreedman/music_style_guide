@@ -5,7 +5,7 @@ It’s seldom necessary to clutter your narrative with titles and dates of schol
 
 For example, in the body of your argument you might write (the **BOLD** reference is just for emphasis):
 
-    Carolyn Abbate has urged musicologists to consider the practical and corporeal dimensions of music (**Abbate 2004: 508**).
+    Carolyn Abbate has urged musicologists to consider the practical and corporeal dimensions of music (Abbate 2004: 508).
 
 Notice that the author-date reference contains the _exact location of the material you are quoting_ or referring to. The bibliography is the place for the _full details about where to find this particular publication_.  In the author-date system: 
 

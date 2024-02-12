@@ -19,31 +19,27 @@ Like audio examples, video examples are forms of evidence, and can be a great wa
 6. **Upload your image or video example** file to your example folder.
 7. **Add a parenthetical reference to the example** at the appropriate point in your essay. Be sure to include a time-reference. Unlike audio example timings, which are based on the run-time of a specific track, video example timings are based on the full run-time of the production. **Acquire the unique URL of your example file** and turn the parenthetical reference into a link:
 
-        Video Example 4. In Act I, Scene 5 of Mozart’s _Die Zauberflöte_, Papageno’s character 
-        has had his mouth locked such, and so the singer must manage to 
-        hum their way through the ensemble, to hysterical effect 
-        (Video Example 4, [29:40-30:05](https://drive.google.com/file/d/173S8oNbW8RGjKRtPuQKC7S3roEVPErBG/view?usp=share_link))
+>Video Example 4. In Act I, Scene 5 of Mozart’s _Die Zauberflöte_, Papageno’s character has had his mouth locked such, and so the singer must manage to hum their way through the ensemble, to hysterical effect (Video Example 4, [29:40-30:05](https://drive.google.com/file/d/173S8oNbW8RGjKRtPuQKC7S3roEVPErBG/view?usp=share_link))
 
 8. If you haven’t already done so, **establish a list of examples** at the end of your essay. See the rules for such citations elsewhere in this guide.
 
-        List of Video Examples
-  
-        Video Example 4. Wolfgang Amadeus Mozart, _Die Zauberflöte,_ Act I, Scene 5, Joana Mallwit, 
-        Conductor, Vienna Philharmonic and Salzburg Festival Production, Unitel 2022, 29:40-30:05.  
+> List of Video Examples
+>
+> Video Example 4. Wolfgang Amadeus Mozart, _Die Zauberflöte,_ Act I, Scene 5, Joana Mallwit, Conductor, Vienna Philharmonic and Salzburg Festival Production, Unitel 2022, 29:40-30:05.  
         
 ### Refering to Both Audio and Video Examples
 
 Some claims benefit from the support of **both a score excerpt and an audio or video segment**. When one example supplements another, construct your parenthetical reference as follows:    
 
-        Jarrett’s arpeggios in the opening of the prelude are especially lyrical  (Ex. 1 with Ex. 2, 00:00–00:06). 
+> Jarrett’s arpeggios in the opening of the prelude are especially lyrical  (Ex. 1 with Ex. 2, 00:00–00:06). 
 
 Although they illustrate the same point, the two examples are numbered and cited separately:
 
-    List of Examples
-    
-    1. Johann Sebastian Bach, _Das Wohltemperierte Klavier_, vol. 1 (Leipzig: Peters, 1963), 7.
-    
-    2. Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
+> List of Examples
+>
+> 1. Johann Sebastian Bach, _Das Wohltemperierte Klavier_, vol. 1 (Leipzig: Peters, 1963), 7.
+>
+> 2. Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
 
 -----
 

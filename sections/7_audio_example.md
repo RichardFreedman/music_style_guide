@@ -38,12 +38,13 @@ There are various ways to obtain and document your examples.
 5. **Maintain a working list of your audio examples in a Word or Google document**, including the URLs, the names of performers and works (as reminders), and the timings of the excerpts. When your essay is ready you can then complete the following steps.  
 6. **Add a parenthetical reference to the example at the appropriate point in your essay**, **using the URL to make a link**. Be sure to include a time-reference specifying the relevant part of the track, so that your readers can navigate to the right moment.
 
-        Jarrett’s initial presentation of the C-major fugue subject is brisk and legato (Audio Ex. 1, 00:00–00:05). 
+> Jarrett’s initial presentation of the C-major fugue subject is brisk and legato (Audio Ex. 1, 00:00–00:05). 
 
 7. **Add a citation for this example to the list at the end of your essay**:
 
-        Audio Examples
-        Audio Example 1: Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
+>Audio Examples
+>
+> Audio Example 1: Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
 
 **Option B:  Make an MP3 Excerpt and Link to it via Gdrive, Box, or WordPress**
 
@@ -59,13 +60,13 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 8. **Upload your audio example file to your example folder**.
 9. **Add a parenthetical reference to the example at the appropriate point in your essay**. **Acquire the unique URL of your example file** and turn the parenthetical reference into a link (be sure to include a time reference!):
 
-      The performance of Monteverdi’s “Tornate,” from the Settimo libro di madrigali, by the Concerto Italiano is especially effective in its emphasis of the opening dissonances (Audio Ex 3, 0:00-0:23;[ Listen Here](https://drive.google.com/file/d/173MegiokvrvqZNDa2J9tscAsngZea8cA/view?usp=share_link))
+>The performance of Monteverdi’s “Tornate,” from the Settimo libro di madrigali, by the Concerto Italiano is especially effective in its emphasis of the opening dissonances (Audio Ex 3, 0:00-0:23;[ Listen Here](https://drive.google.com/file/d/173MegiokvrvqZNDa2J9tscAsngZea8cA/view?usp=share_link))
 
 10. **If you haven’t already done so, establish a list of examples at the end of your essay.** See the Music Dept. Style Sheet on how to format a audio citation, following note format. 
 
-        List of Audio Examples
+> List of Audio Examples
 
-        Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from Il Settimo libro di madrigali, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.
+> Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from Il Settimo libro di madrigali, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.
 
 -----
 

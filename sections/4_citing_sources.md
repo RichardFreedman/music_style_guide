@@ -5,11 +5,11 @@ It’s seldom necessary to clutter your narrative with titles and dates of schol
 
 For example, in the body of your argument you might write (the **BOLD** reference is just for emphasis):
 
-Carolyn Abbate has urged musicologists to consider the practical and corporeal dimensions of music (**Abbate 2004: 508**).
+> Carolyn Abbate has urged musicologists to consider the practical and corporeal dimensions of music (**Abbate 2004: 508**).
 
 Notice that the author-date reference contains the _exact location of the material you are quoting_ or referring to. The bibliography is the place for the _full details about where to find this particular publication_.  In the author-date system: 
 
-Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” _Critical Inquiry_ 30, no. 3: 505-36.
+> Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” _Critical Inquiry_ 30, no. 3: 505-36.
 
 Do <span style="text-decoration:underline;">not</span> include a URL or DOI for electronically accessed sources. Likewise, do <span style="text-decoration:underline;">not</span> specify “print” or “electronic” in notes and bibliographies for music courses. See [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) for further guidance on all other matters pertaining to citation, and models for many different types of publications you will need to cite (books, chapters in books, journal articles, reference works, scores, primary sources, etc.)
 
@@ -19,10 +19,9 @@ See the [Music Example Guide](https://docs.google.com/document/d/1alBeVyXkABBwWl
 
 **Scores are books**. Cite them accordingly.
 
-Bibliography:
-
-
-Liszt, Franz. 1978. _Années de pèlerinage: Première année, Suisse_. Munich: Henle Verlag.
+> Bibliography:
+>
+>Liszt, Franz. 1978. _Années de pèlerinage: Première année, Suisse_. Munich: Henle Verlag.
 
 ---
 
@@ -34,21 +33,21 @@ For information about dates and performers, you can turn to the cover and notes 
 
 **Audio recording** might look like this:
 
-Bach, Johann Sebastian. 2010. _St. Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi, 3 compact discs.   
-
-Parker, Charlie. 1988. _Bird:  The Complete Verve Recordings (1946-54)_.  Verve. 
+> Bach, Johann Sebastian. 2010. _St. Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi, 3 compact discs.   
+>
+> Parker, Charlie. 1988. _Bird:  The Complete Verve Recordings (1946-54)_.  Verve. 
 
 ---
 
 **Video recording** might look like this:
 
-Mozart, Wolfgang Amadeus. 2015. _Die Entführung aus dem Serail_. François Roussillon, director. David McVicar, stage director. Robin Ticciati, conductor. Orchestra of the Age of Enlightenment. With Sally Matthews, Edgaras Montvidas, Tobias Kehrer, et al. Glyndebourne, 02:45:00.	
+> Mozart, Wolfgang Amadeus. 2015. _Die Entführung aus dem Serail_. François Roussillon, director. David McVicar, stage director. Robin Ticciati, conductor. Orchestra of the Age of Enlightenment. With Sally Matthews, Edgaras Montvidas, Tobias Kehrer, et al. Glyndebourne, 02:45:00.	
 
 ---
 
 **Liner notes to recordings** are a special case, but are often worth citing for special insights about from the artists, or the nature of the project, or even for scholarly content:
 
-Marissen, Michael. 2010. Liner Notes to Accompany Johann Sebastian Bach,  _St.   Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi. 
+> Marissen, Michael. 2010. Liner Notes to Accompany Johann Sebastian Bach,  _St.   Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi. 
 
 -----
 

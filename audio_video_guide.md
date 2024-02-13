@@ -212,3 +212,21 @@ Other helpful tutorials:
 * [Import and Manage Media](https://www.techsmith.com/learn/tutorials/camtasia/import-manage-media/), such as audio files you create with Hijack+Fission
 * [Position Media on the Canvas/Timeline](https://www.techsmith.com/learn/tutorials/camtasia/working-with-the-canvas/)
 * [Remove Narration Mistakes with Trim and Split](https://www.techsmith.com/learn/tutorials/camtasia/remove-mistakes/)
+
+
+# The Music Style Guide for Haverford, Bryn Mawr, and Swarthmore College
+
+### Contents of This Guide
+
+- [Referring to Musical Works](1_works.md)
+- [Terminology, Hyphens and Dashes](2_terms.md)
+- [Writing About the Past](3_past.md)
+- [Citing Sources](4_citing_sources.md)
+- [Examples and Fair Use](5_examples_intro.md)
+- [Score Examples](6_score_example.md)
+- [Audio Examples](7_audio_example.md)
+- [Video Examples](8_video_example.md)
+- [Transcriptions and Figures](9_transcriptions_figures.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)
+
+-----

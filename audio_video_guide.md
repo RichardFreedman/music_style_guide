@@ -70,4 +70,33 @@ The recordings are stored on your computer--you can:
 
 ## Fission
 
+Fission is a companion program to Audio Hijack that makes fast work of:
+
+* Cropping, Deleting, and Splitting
+* Fades
+* Volume adjustment and normalization
+* Format conversion
+* Editing Metadata
+
+[Read the manual online.](https://rogueamoeba.com/support/manuals/fission/?page=introduction)
+
+![alt text](images/fiss_1.png)
+
+### Main Edit Window
+
+
+
+### Crop, Delete, Split, Insert Silence
+
+These are probably the most important techniques, which help you find just the region you need for your example. Learn how [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=removingandadding).  Also learn about [adding split points here.](https://rogueamoeba.com/support/manuals/fission/?page=splitting)
+
+![alt text](images/fiss_4.png)
+
+### Fade In and Out
+
+Fades are another good technique to make good examples for presentations or to link to a paper. Learn how [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=volumeadjustment)
+
+![alt text](images/fiss_5.png)
+
+## Camtasia
 

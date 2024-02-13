@@ -47,20 +47,20 @@ There are lots of possibilities, but [read this quick guide](https://rogueamoeba
 
 ### The Audio Hijack Grid
 
-The most important concept in Audio Hijack is the **grid**--the pipeline through which your audio will flow from source to recorder and to monitor (output).  Learn more about the audio grid and the library of available 'blocks' [here.](https://rogueamoeba.com/support/manuals/audiohijack/?page=masteringsessions)
+The most important concept in Audio Hijack is the **grid**--the pipeline through which your audio will flow from source to recorder and to monitor (output). [Learn more about the audio grid and the library of available 'blocks'.](https://rogueamoeba.com/support/manuals/audiohijack/?page=masteringsessions)
 
 ![alt text](images/12_HJ_Grid.png)
 
 ### The Recorder Block
 
-The recorder block has lots of great features that allow you to name your files as you go.  For example it's possible 'tags' to your recordings that automatically append date, or time, or a track number as you work.  If you take notes on the segments recorded, you can use these tags to find and organize your files later. Read more about the [Recorder Block here.](https://rogueamoeba.com/support/manuals/audiohijack/?page=recorderblock)
+The recorder block has lots of great features that allow you to name your files as you go.  For example it's possible 'tags' to your recordings that automatically append date, or time, or a track number as you work.  If you take notes on the segments recorded, you can use these tags to find and organize your files later. [Learn more about the Recorder Block.](https://rogueamoeba.com/support/manuals/audiohijack/?page=recorderblock)
 
 
 ![alt text](images/15_HJ_Rec_Block.png)
 
 ### Where are the Output Files?
 
-Find your recordings at the **sidebar** at the right of the main interface. Notice that you can toggle between a view of the "blocks" and the "recordings". Read more about the [sidebar here.](https://rogueamoeba.com/support/manuals/audiohijack/?page=sidebarcontrols)
+Find your recordings at the **sidebar** at the right of the main interface. Notice that you can toggle between a view of the "blocks" and the "recordings". [Learn more about the sidebar.](https://rogueamoeba.com/support/manuals/audiohijack/?page=sidebarcontrols)
 
 The recordings are stored on your computer--you can:
 
@@ -85,7 +85,7 @@ Fission is a companion program to Audio Hijack that makes fast work of:
 
 ### Main Editing Window
 
-When you open any audio file in Fission you will come to the main editing window.  Learn more [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=basics)
+When you open any audio file in Fission you will come to the main editing window.  [Learn more via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=basics)
 
 ![alt text](images/fiss_7.png)
 
@@ -93,7 +93,7 @@ When you open any audio file in Fission you will come to the main editing window
 
 ### Crop, Delete, Split, Insert Silence
 
-These are probably the most important techniques, which help you find just the region you need for your example. Select a region and then apply the crop tool to get just that portion.  Learn more [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=removingandadding).  Also learn about [adding split points here.](https://rogueamoeba.com/support/manuals/fission/?page=splitting)
+These are probably the most important techniques, which help you find just the region you need for your example. Select a region and then apply the crop tool to get just that portion.  Learn more [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=removingandadding).  [Learn more about adding split points here.](https://rogueamoeba.com/support/manuals/fission/?page=splitting)
 
 ![alt text](images/fiss_4.png)
 
@@ -101,7 +101,7 @@ These are probably the most important techniques, which help you find just the r
 
 ### Fade In and Out, Volume Adjustment
 
-Fades are another good technique to make good examples for presentations or to link to a paper. In brief, you select a region of the file, then click the fade-in or fade-out icon to create the effect.  Learn more [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=volumeadjustment)
+Fades are another good technique to make good examples for presentations or to link to a paper. In brief, you select a region of the file, then click the fade-in or fade-out icon to create the effect.  [Learn more via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=volumeadjustment)
 
 ![alt text](images/fiss_5.png)
 
@@ -109,7 +109,7 @@ Fades are another good technique to make good examples for presentations or to l
 
 ### Format Conversion
 
-Normally you will use mp3 files for your examples.  But there are a variety of digital file formats available; learn how to convert one to another (although sometimes signal loss could be involved) [via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=formatconversion)
+Normally you will use mp3 files for your examples.  But there are a variety of digital file formats available; [learn how to convert one to another (although sometimes signal loss could be involved) via the manual.](https://rogueamoeba.com/support/manuals/fission/?page=formatconversion)
 
 ![alt text](images/fiss_9.png)
 
@@ -118,7 +118,7 @@ Normally you will use mp3 files for your examples.  But there are a variety of d
 
 ### Metadata
 
-It is good practice to keep your own notes (a spreadsheet is good) about your music clips--the number and status of them will quickly become overwhelming otherwise. Naming your clips consistently will make things much easier when it comes time to assemble them as examples for an essay or include them in a podcast or Camtasia video.  For example:  **FREEDMAN_229_EX3.mp3**. See the [Music Style Guide](https://github.com/RichardFreedman/music_style_guide/blob/main/sections/7_audio_example.md) for some good suggestions on how to name your examples.
+It is good practice to keep your own notes (a spreadsheet is good) about your music clips--the number and status of them will quickly become overwhelming otherwise. Naming your clips consistently will make things much easier when it comes time to assemble them as examples for an essay or include them in a podcast or Camtasia video.  For example:  **FREEDMAN_229_EX3.mp3**. [See the Music Style Guide](https://github.com/RichardFreedman/music_style_guide/blob/main/sections/7_audio_example.md) for some good suggestions on how to name your examples.
 
 You can also edit metadata for each clip with Fission.  [Learn more in the manual.](https://rogueamoeba.com/support/manuals/fission/?page=basics)
 
@@ -128,7 +128,7 @@ You can also edit metadata for each clip with Fission.  [Learn more in the manua
 
 # Camtasia
 
-Camtasia is a great resource for making audio or video podcasts. The Harris Workstations feature **Camtasia 2021**.  [Learn more via the manual.](https://www.techsmith.com/blog/wp-content/uploads/2022/01/Camtasia-Help-2021.0.4EN.pdf).  The Camtasia 2023 software is slightly different places, but the videos available on the [Camtasia Tutorial site](https://www.techsmith.com/learn/tutorials/camtasia) are still quite useful.
+Camtasia is a great resource for making audio or video podcasts. The Harris Workstations feature **Camtasia 2021**.  [Learn more via the manual.](https://www.techsmith.com/blog/wp-content/uploads/2022/01/Camtasia-Help-2021.0.4EN.pdf).  The Camtasia 2023 software is slightly different places, but the [videos available on the Camtasia Tutorial site](https://www.techsmith.com/learn/tutorials/camtasia) are still quite useful.
 
 Camtasia is powerful software.  The basics are not difficult, and many of the advanced features are not necessary in order to have good results.  On the other hand you can also spend a lot of time making things 'perfect', so it is important to be reasonable, and to plan ahead.
 

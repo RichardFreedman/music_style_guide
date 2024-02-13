@@ -10,7 +10,7 @@ What can you use as an audio example, and how will your reader know where you fo
 
 ### How to Make Audio Excerpts
 
-* Watch demonstration of software for creating audio examples with Hijack, Fission, Reaper, and Camtasia [here](https://haverford.app.box.com/file/934628633661?s=rx573ab4v3j5yolf6zmu6tnnik371m7f).
+* [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)
 
 ### How to Find and Cite Audio Sources
 
@@ -82,3 +82,4 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)

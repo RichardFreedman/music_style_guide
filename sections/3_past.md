@@ -60,3 +60,4 @@ Use the present tense when describing or analyzing music, even if it was written
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)

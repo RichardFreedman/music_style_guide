@@ -4,7 +4,7 @@ Like audio examples, video examples are forms of evidence, and can be a great wa
 
 ### How to Make Video Excerpts
 
-* Watch demonstration of software for creating video examples with Camtasia [here](https://haverford.app.box.com/file/934628633661?s=rx573ab4v3j5yolf6zmu6tnnik371m7f).
+[Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)
 
 ### How to Find and Cite Video Sources
 
@@ -54,3 +54,4 @@ Although they illustrate the same point, the two examples are numbered and cited
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)

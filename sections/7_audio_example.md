@@ -18,33 +18,34 @@ There are various ways to obtain and document your examples.
 
 **Option A:  Provide Naxos (or as a last resort Spotify) Link and Timing**
 
-    [Naxos Music Library](https://library.haverford.edu/media/audio.php?id=https://haverford.naxosmusiclibrary.com/advancesearch.asp) is the only approved source of audio examples in a music essay at Haverford. For the sake of accuracy, accessibility, and copyright compliance, <span style="text-decoration:underline;">do not use</span> YouTube, Spotify, Amazon, or other alternative services _for repertories covered by Naxos_. 
+>[Naxos Music Library](https://library.haverford.edu/media/audio.php?id=https://haverford.naxosmusiclibrary.com/advancesearch.asp) is the only approved source of audio examples in a music essay at Haverford. For the sake of accuracy, accessibility, and copyright compliance, <span style="text-decoration:underline;">do not use</span> YouTube, Spotify, Amazon, or other alternative services _for repertories covered by Naxos_. 
 
-    If your topic falls outside the realm of classical music, you may discuss possible resources with your professor, and **Spotify** is probably the best choice here.
+>If your topic falls outside the realm of classical music, you may discuss possible resources with your professor, and **Spotify** is probably the best choice here.
 
 1. **In Naxos Music Library, navigate to the album you want to use.** Let’s say this is Keith Jarrett’s 1988 recording of Bach’s _Well Tempered Clavier, Book 1_, available there as FEX8082_002
 2. **Click the link icon located beneath the play button on the upper right to display the unique URL** of each track, and then copy the unique URL of the track you want to use. Let’s say this is the Fugue in C Major (disc 1, track 2):
 
-    https://Haverford.nml3.naxosmusiclibrary.com/stream.asp?s=34055%2FHaverford18%2FEX8082_002
+>https://Haverford.nml3.naxosmusiclibrary.com/stream.asp?s=34055%2FHaverford18%2FEX8082_002
 
 3. **Add the following prefix to the copied URL**. This ensures that anyone in the Bi-Co can link to your example.
 
-    https://library.haverford.edu/media/audio.php?id= 
+>https://library.haverford.edu/media/audio.php?id= 
 
 4. **Your audio example now has the following full address**: 
 
-    https://library.haverford.edu/media/audio.php?id=https://Haverford.nml3.naxosmusiclibrary.com/stream.asp?s=34055%2FHaverford18%2FEX8082_002
+>https://library.haverford.edu/media/audio.php?id=https://Haverford.nml3.naxosmusiclibrary.com/stream.asp?s=34055%2FHaverford18%2FEX8082_002
 
 5. **Maintain a working list of your audio examples in a Word or Google document**, including the URLs, the names of performers and works (as reminders), and the timings of the excerpts. When your essay is ready you can then complete the following steps.  
+
 6. **Add a parenthetical reference to the example at the appropriate point in your essay**, **using the URL to make a link**. Be sure to include a time-reference specifying the relevant part of the track, so that your readers can navigate to the right moment.
 
-> Jarrett’s initial presentation of the C-major fugue subject is brisk and legato (Audio Ex. 1, 00:00–00:05). 
+>Jarrett’s initial presentation of the C-major fugue subject is brisk and legato (Audio Ex. 1, 00:00–00:05). 
 
 7. **Add a citation for this example to the list at the end of your essay**:
 
 >Audio Examples
 >
-> Audio Example 1: Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
+>Audio Example 1: Johann Sebastian Bach, _The Well-Tempered Clavier, Book 1_, Keith Jarrett, ECM, 1988, disc 1, track 2, 00:00–00:05.
 
 **Option B:  Make an MP3 Excerpt and Link to it via Gdrive, Box, or WordPress**
 

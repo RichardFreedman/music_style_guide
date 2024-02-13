@@ -10,7 +10,7 @@ Like audio examples, video examples are forms of evidence, and can be a great wa
 
 1. **Choose from the viewing resources listed [here](https://guides.tricolib.brynmawr.edu/c.php?g=285015&p=1899330), or get a DVD from the College library**. In certain cases (e.g., ethnographic material or a video hosted by an organization like the Curtis Institute or the Philadelphia Orchestra), you might need to draw content from elsewhere. Discuss such exceptions with your professor. 
 
-    Otherwise, for the sake of accuracy, accessibility, and copyright compliance, **do not use YouTube** or any other non-listed service in a music essay at Haverford.
+>Otherwise, for the sake of accuracy, accessibility, and copyright compliance, **do not use YouTube** or any other non-listed service in a music essay at Haverford.
 
 2. **Capture a still or moving image from the streaming service or DVD**. Be sure to include only the necessary content. To capture still images, use the screen-shot function on your device, cropping as needed. You can use **Camtasia** editing software quite effectively for this on the Music Library Mac computers.
 3. **Label the resulting example file** as LASTNAME_CLASS_EX# (e.g., FREEDMAN_229_EX3.jpg). If it’s a still image, your example must be a JPEG, TIFF, or PDF file. If it’s a moving image, your example must be an MP4 file.

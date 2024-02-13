@@ -50,10 +50,10 @@ The most important concept in Audio Hijack is the **grid**--the pipeline through
 
 ### The Recorder Block
 
-The recorder block has lots of great features that allow you to name your files as you go.  For example it's possible 'tags' to your recordings that automatically append date, or time, or a track number as you work.  If you take notes on the segments recorded, you can use these tags to find and organize your files later.
+The recorder block has lots of great features that allow you to name your files as you go.  For example it's possible 'tags' to your recordings that automatically append date, or time, or a track number as you work.  If you take notes on the segments recorded, you can use these tags to find and organize your files later. Read more about the [Recorder Block here.](https://rogueamoeba.com/support/manuals/audiohijack/?page=recorderblock)
 
-Read all about the [Recorder Block.](https://rogueamoeba.com/support/manuals/audiohijack/?page=recorderblock)
 
+![alt text](images/15_HJ_Rec_Block.png)
 
 ### Where are the Output Files?
 

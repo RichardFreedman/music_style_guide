@@ -14,9 +14,9 @@ You will need to bring **your own USB drive**, or be ready to log into Gdrive or
 
 ## Logging In
 
-The workstations look like others on campus, with the usual log in.  Of course you are welcome to use these machines in the customary way with your Haverford or Bryn Mawr ID.  
+The workstations look like others on campus, with the usual log in.  Of course you are welcome to use these machines in the customary way with your Haverford or Bryn Mawr ID. 
 
-But WAIT! You will be logging in differently if you want to use the software mentioned above.  Use the Course ID (like 'musc229') and the password provided by your instructor.  
+But WAIT! You won't find the audio/video software this way!  Use the **Course ID** (like 'musc229') and the password provided by your instructor.  
 
 ![alt text](images/00_home.png)
 
@@ -29,3 +29,45 @@ You will find links to Camtasia and the other specialized software in the deskto
 Open the folder to find the aliases and launch the program you need:
 
 ![alt text](images/02_apps.png)
+
+## Audio Hijack
+
+Audio Hijack is great way to record sound from any application, a microphone, or the entire computer system.  
+
+[Read the manual online.](https://rogueamoeba.com/support/manuals/audiohijack/)
+
+![alt text](images/11_hj_manual.png)
+
+### Getting Started
+
+There are lots of possibilities, but [read this quick guide](https://rogueamoeba.com/support/manuals/audiohijack/?page=startingsimple) to get started!
+
+### The Audio Hijack Grid
+
+The most important concept in Audio Hijack is the **grid**--the pipeline through which your audio will flow from source to recorder and to monitor (output).  Learn more about the audio grid and the library of available 'blocks' [here.](https://rogueamoeba.com/support/manuals/audiohijack/?page=masteringsessions)
+
+![alt text](images/12_HJ_Grid.png)
+
+### The Recorder Block
+
+The recorder block has lots of great features that allow you to name your files as you go.  For example it's possible 'tags' to your recordings that automatically append date, or time, or a track number as you work.  If you take notes on the segments recorded, you can use these tags to find and organize your files later.
+
+Read all about the [Recorder Block.](https://rogueamoeba.com/support/manuals/audiohijack/?page=recorderblock)
+
+
+### Where are the Output Files?
+
+Find your recordings at the **sidebar** at the right of the main interface. Notice that you can toggle between a view of the "blocks" and the "recordings". Read more about the [sidebar here.](https://rogueamoeba.com/support/manuals/audiohijack/?page=sidebarcontrols)
+
+The recordings are stored on your computer--you can:
+
+* **Review and listen** to them in this program, or even delete them
+* **Open them via the Finder** (and in turn rename, organize, or move them)
+* **Open them in Fission**, the companion program that is great for trimming your clips, or adding fade-in/fade-out effects
+
+![alt text](images/14_hj_recs.png)
+
+
+## Fission
+
+

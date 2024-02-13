@@ -118,7 +118,7 @@ Normally you will use mp3 files for your examples.  But there are a variety of d
 
 ### Metadata
 
-It is good practice to keep your own notes (a spreadsheet is good) about your music clips--the number and status of them will quickly become overwhelming otherwise.  Naming your clips consistently will make things much easier when it comes time to assemble them as examples for an essay or include them in a podcast or Camtasia video.  See the Style Guide for some good suggestions on how to name your examples.
+It is good practice to keep your own notes (a spreadsheet is good) about your music clips--the number and status of them will quickly become overwhelming otherwise. Naming your clips consistently will make things much easier when it comes time to assemble them as examples for an essay or include them in a podcast or Camtasia video.  For example:  **FREEDMAN_229_EX3.mp3**. See the [Music Style Guide](https://github.com/RichardFreedman/music_style_guide/blob/main/sections/7_audio_example.md) for some good suggestions on how to name your examples.
 
 You can also edit metadata for each clip with Fission.  [Learn more in the manual.](https://rogueamoeba.com/support/manuals/fission/?page=basics)
 
@@ -126,17 +126,89 @@ You can also edit metadata for each clip with Fission.  [Learn more in the manua
 
 <br>
 
-## Camtasia
+# Camtasia
 
-Camtasia is a great resource for making audio or video podcasts. The Harris Workstations feature **Camtasia 2021**.  [Learn more via the manual.](https://www.techsmith.com/blog/wp-content/uploads/2022/01/Camtasia-Help-2021.0.4EN.pdf).  
+Camtasia is a great resource for making audio or video podcasts. The Harris Workstations feature **Camtasia 2021**.  [Learn more via the manual.](https://www.techsmith.com/blog/wp-content/uploads/2022/01/Camtasia-Help-2021.0.4EN.pdf).  The Camtasia 2023 software is slightly different places, but the videos available on the [Camtasia Tutorial site](https://www.techsmith.com/learn/tutorials/camtasia) are still quite useful.
 
-When you start Camtasia for the first time you will see something like the following.  Select a "New Project". 
+Camtasia is powerful software.  The basics are not difficult, and many of the advanced features are not necessary in order to have good results.  On the other hand you can also spend a lot of time making things 'perfect', so it is important to be reasonable, and to plan ahead.
 
-If you are returning to edit previous work, then use Open Project
+### Plan Your Work
+
+Consider the following suggestions:
+
+* Write an outline, then a script.  This is the best way to know where you are going, and how all the segments go together. 
+
+* Make a list of all the examples you will use (images, texts, audio, and video).  
+
+* You can make audio and video recordings directly in Camtasia, including screen captures, system audio, narration, or even your workstation camera.  
+
+* It is also sometimes useful to create your audio clips with Hijack and Fission, then import them to the Media Bin.
+
+* It is also sometimes useful to create static slides (such as some score excerpt, or text, or perhaps a still image) on Google slides, then narrate as you move through those slides.*
+
+### Save Your Work!
+
+Be sure to save your project frequently!  Yes, you can "undo", but save before each major edit!
+
+The workstations are for *temporary storage* of your working files.  Please use the **Student Work Folder** (see the alias on the workstation desktop) for this purpose.  Be sure to save work only in your own folder!
+
+It's thus a good idea to back things up:  on **your own USB drive**, **Gdrive** or **OneDrive**.  You will need to log into these services via a browser, since you are not actually logged in with your regular user account on the workstation itself. *Don't expect to leave your work on the shared computer!*
+
+Note that **Camtasia** files are stored in a proprietary format until you export them to MP4.  Yes, you can back them up on Gdrive, etc, but be careful!
+
+
+### Getting Started
+
+When you start Camtasia for the first time you will see something like the following.  Select a **New Project**. 
 
 ![alt text](images/05_camtasia_start.png)
 
+If you are returning to edit previous work, then use **Open Project**.  You might need to navigate to the Student Work Folder and look for your own subfolder. It will look something like the following.  Camtasia projects are stored in a proprietary format with the **cmproj** as the extension. 
 
-The workstations are for *temporary storage* of your working files. It's thus a good idea to back things up:  on **your own USB drive**, **Gdrive** or **OneDrive**.  You will need to log into these services via a browser, since you are not actually logged in with your regular user account on the workstation itself. *Don't expect to leave your work on the shared computer!*
+Final exported ("rendered") files in MP4 or other formats are for use with browsers or media players.  You cannot open them as a Camtasia Project.  But you *can* add MP4, MP3 or similar files to your **Media Bin** for a given project and use them in your work.  See more below
 
-Note that **Camtasia** files are stored in a proprietary format until you export them to MP4.  Yes, you can back them up on Gdrive, etc, but be careful!
+![alt text](images/cam_1.png)
+
+<br>
+
+### The Main Editor
+
+The main Camtasia editor will look something like this:
+
+* At the far left:  menus that allow you to choose areas for media, transitions (like fades), and captions
+* At the center-left:  the options avaiable for whichever of the menu items you have selected (in this case, the "Media Bin", which is your collection of clips or recordings)
+* In the center:  a view of the video at a particular instant, as given by the cursor/playhead on the timeline
+* At the bottom:  playback controls, a 'time scale' adjustment (so you can zoom in or zoom out across time), and finally the "Canvas" itself, consisting of layers of audio and video tracks that make up your project.  
+* At the top right:  button to export your file.
+
+<br>
+
+![alt text](images/cam_2.png)
+
+### The Basic Steps
+
+In the course of making a project you will:
+
+* Record clips (via screen capture) or add audio clips you made with Hijack+Fission to the "Media Bin".  
+* Drag the clips to the Canvas in the order you want 
+* Align, trim, and move the clips on the canvas
+* Adjust audio, add transitions or perhaps captions and titles
+* Export the finished project to MP4 (note that a 10 minute video might take 20 minutes to export, so plan accordingly)
+
+### Key Tutorials from Camtasia
+
+[Read the Camtasia 2021 manual](https://www.techsmith.com/blog/wp-content/uploads/2022/01/Camtasia-Help-2021.0.4EN.pdf) to learn more about each step.
+
+Or watch these selected [video tutorials for Camtasia 2023](https://www.techsmith.com/learn/tutorials/camtasia/) (some details might differ, but these are still excellent):
+
+* [Learn Camtasia in Five Minutes](https://www.techsmith.com/learn/tutorials/camtasia/?utm_source=product&utm_medium=cmac&utm_campaign=cm20&ipc_item_name=cmac&ipc_platform=macos)
+* [Build Your First Video](https://www.techsmith.com/learn/tutorials/camtasia/record-edit-share/)
+*[Basic Edits After Recording](https://www.techsmith.com/learn/tutorials/camtasia/basic-video-edits/)
+*[Assemble Your Video](https://www.techsmith.com/learn/tutorials/camtasia/add-video-content/)
+*[Export and Share Your Video](https://www.techsmith.com/learn/tutorials/camtasia/export-share/)
+
+Other helpful tutorials:
+
+* [Import and Manage Media](https://www.techsmith.com/learn/tutorials/camtasia/import-manage-media/), such as audio files you create with Hijack+Fission
+* [Position Media on the Canvas/Timeline](https://www.techsmith.com/learn/tutorials/camtasia/working-with-the-canvas/)
+* [Remove Narration Mistakes with Trim and Split](https://www.techsmith.com/learn/tutorials/camtasia/remove-mistakes/)

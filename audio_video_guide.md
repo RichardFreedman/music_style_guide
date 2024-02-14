@@ -7,7 +7,7 @@ The Quiet Reading Room of the Harris Music Library at Haverford College features
 * **Fission** (to edit sound clips)
 * **Reaper** (also for sound editing)
 
-These are not meant to replace production tools such as ProLogic.  But together these tools provide an easy path for making audio or video examples to accompany a paper or presentation, or ways to make high-quality video or audio podcasts that combine sounds, narration and moving or still images.
+These are not meant to replace production tools such as ProTools.  But together these tools provide an easy path for making audio or video examples to accompany a paper or presentation, or ways to make high-quality video or audio podcasts that combine sounds, narration and moving or still images.
 
 The stations also include **DVD drives** (so you can make examples from CD or DVD recordings), **Rode USB microphones** (for narration), and headphones (so you can monitor and review your work).
 

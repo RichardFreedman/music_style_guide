@@ -200,20 +200,20 @@ In the course of making a project you will:
 
 If you are **streaming video content via your browser** (for example, something from YouTube or perhaps a electronic resource you access via Tripod):
 
-* Use **Chrome** as your browser
-* Open *preferences*:
+* A. Use **Chrome** as your browser
+* B. Open *preferences*:
 
 ![alt text](images/Chrome_accel_1.png)
 
-* Look for *system*:
+* C. Look for *system*:
 
 ![alt text](images/Chrome_accel_2.png)
 
-* Activate "use hardware acceleration"
+* D. Activate "Use graphics acceleration when available"
 
 ![alt text](images/Chrome_accel_3.png)
 
-* Relaunch Chrome:
+* E. Relaunch Chrome:
 
 ![alt text](images/Chrome_accel_4.png)
 

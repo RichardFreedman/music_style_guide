@@ -209,7 +209,7 @@ If you are **streaming video content via your browser** (for example, something 
 
 ![alt text](images/Chrome_accel_2.png)
 
-* D. Activate "Use graphics acceleration when available"
+* D. **Deactivate** the "Use graphics acceleration when available" feature.  That is: *turn it off.*
 
 ![alt text](images/Chrome_accel_3.png)
 

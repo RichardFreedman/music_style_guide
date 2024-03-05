@@ -211,11 +211,17 @@ If you are **streaming video content via your browser** (for example, something 
 
 * D. **Deactivate** the "Use graphics acceleration when available" feature.  That is: *turn it off.*
 
-![alt text](images/Chrome_accel_3.png)
+Intead of this:
+
+![alt text](images/vlcchrome1.png)
+
+Your screen should look like this:
+
+![alt text](images/vlcchrome2.png)
 
 * E. Relaunch Chrome:
 
-![alt text](images/Chrome_accel_4.png)
+![alt text](images/vlcchrome3.png)
 
 If you are **taking clips from a DVD**:
 

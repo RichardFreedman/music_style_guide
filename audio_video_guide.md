@@ -269,6 +269,8 @@ For audio only export, look under the **File** menu at the top left of your scre
 
 #### Finally:  Respect Fair Use Principles!
 
+Read about [Fair Use](https://github.com/RichardFreedman/music_style_guide/blob/main/sections/5_examples_intro.md).
+
 ### Key Tutorials from Camtasia
 
 [Read the Camtasia 2021 manual](https://www.techsmith.com/blog/wp-content/uploads/2022/01/Camtasia-Help-2021.0.4EN.pdf) to learn more about each step.

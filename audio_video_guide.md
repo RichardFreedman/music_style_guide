@@ -14,7 +14,7 @@ The stations also include **DVD drives** (so you can make examples from CD or DV
 
 The workstations are for *temporary storage* of your working files. It's thus a good idea to back things up:  on **your own USB drive**, **Gdrive** or **OneDrive**.  You will need to log into these services via a browser, since you are not actually logged in with your regular user account on the workstation itself. *Don't expect to leave your work on the shared computer!*
 
-Note that **Camtasia** files are stored in a proprietary format until you export them to MP4.  Yes, you can back them up on Gdrive, etc, but be careful!
+Note that **Camtasia** files are stored in a proprietary format until you export them to MP3 (for audio alone) or MP4 (for video and audio together).  Yes, you can back them up on Gdrive, etc, but be careful!
 
 ## Logging In
 
@@ -166,7 +166,7 @@ When you start Camtasia for the first time you will see something like the follo
 
 If you are returning to edit previous work, then use **Open Project**.  You might need to navigate to the Student Work Folder and look for your own subfolder. It will look something like the following.  Camtasia projects are stored in a proprietary format with the **cmproj** as the extension. 
 
-Final exported ("rendered") files in MP4 or other formats are for use with browsers or media players.  You cannot open them as a Camtasia Project.  But you *can* add MP4, MP3 or similar files to your **Media Bin** for a given project and use them in your work.  See more below
+Final exported ("rendered") files in MP4 (for video and audio), or MP3 (for audio only) or other formats are for use with browsers or media players.  You cannot open them as a Camtasia Project.  But you *can* add WAV, MP4, MP3 or similar files to your **Media Bin** for a given project and use them in your work.  See more below . . .
 
 ![alt text](images/cam_1.png)
 
@@ -194,7 +194,7 @@ In the course of making a project you will:
 * Drag the clips to the Canvas in the order you want 
 * Align, trim, and move the clips on the canvas
 * Adjust audio, add transitions or perhaps captions and titles
-* Export the finished project to MP4 (note that a 10 minute video might take 20 minutes to export, so plan accordingly)
+* Export the finished project to MP3 (for audio) or MP4 (note that a 10 minute video might take 20 minutes to export, so plan accordingly)
 
 ### Different Sources Require Different Solutions:  Streaming Video vs DVD
 
@@ -244,6 +244,28 @@ If you are **taking clips from a DVD**:
 * Now **record the VLC player window with Camtasia**.  You might want to make the VLC player larger (so you have better resolution).  Use the 'expand' arrows at the lower right of the VLC window for this.
 
 * With Camtasia, be sure to use the **"select region"** feature of the recording dialogue.  And make sure you are **recording System Audio** (but not your microphone!).
+
+### Export Finished Project
+
+#### Export Video and Audio as MP4.  
+
+You can save to local file, to a shared drive, or even to youTube or Vimeo.  Note that a 10-minute video could take 20 minutes to save, so be patient!
+
+![alt text](images/cam_ex_1.png)
+
+
+For local file export, the dialogue will continue as follows:
+
+![alt text](images/cam_ex_2.png)
+
+#### Export Audio Only as M4a or WAV File
+
+For audio only export, look under the **File** menu at the top left of your screen, then follow the dialogue.
+
+![alt text](images/cam_ex_3.png)
+
+![alt text](images/cam_ex_4.png)
+
 
 #### Finally:  Respect Fair Use Principles!
 

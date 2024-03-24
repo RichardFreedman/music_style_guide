@@ -147,7 +147,7 @@ Consider the following suggestions:
 
 * It is also sometimes useful to create your audio clips with Hijack and Fission, then import them to the Media Bin.
 
-* It is also sometimes useful to create static slides (such as some score excerpt, or text, or perhaps a still image) on Google slides, then narrate as you move through those slides.*
+* It is also sometimes useful to create static slides (such as some score excerpt, or text, or perhaps a still image) on Google slides, then narrate as you move through those slides.
 
 ### Save Your Work!
 

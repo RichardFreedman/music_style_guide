@@ -10,7 +10,7 @@ The Quiet Reading Room of the Harris Music Library at Haverford College features
 
 These are not meant to replace production tools such as ProLogic.  But together these tools provide an easy path for making audio or video examples to accompany a paper or presentation, or ways to make high-quality video or audio podcasts that combine sounds, narration and moving or still images.
 
-The stations also include **DVD drives** (so you can make examples from CD or DVD recordings), **Rode USB microphones** (for narration), and headphones (so you can monitor and review your work).
+The stations also include **DVD drives** (so you can make examples from CD or DVD recordings), **Rode USB microphones** (for narration), and **headphones** (so you can monitor and review your work).
 
 The workstations are for *temporary storage* of your working files. It's thus a good idea to back things up:  on **your own USB drive**, **Gdrive** or **OneDrive**.  You will need to log into these services via a browser, since you are not actually logged in with your regular user account on the workstation itself. *Don't expect to leave your work on the shared computer!*
 
@@ -20,7 +20,9 @@ Note that **Camtasia** files are stored in a proprietary format until you export
 
 The workstations look like others on campus, with the usual log in.  Of course you are welcome to use these machines in the customary way with your Haverford or Bryn Mawr ID. 
 
-But WAIT! You won't find the audio/video software this way!  Use the **Course ID** (like 'musc229') and the password provided by your instructor.  
+**But WAIT!** 
+
+You won't find the audio/video software this way!  Use the **Course ID** (like 'musc229') and the password provided by your instructor.  
 
 ![alt text](images/00_home.png)
 

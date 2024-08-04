@@ -340,7 +340,7 @@ gapminder2007.head(20).style.set_caption("Table 1: Life Expectancy Data").set_ta
 Notice that you can set the color and size of the caption, no less than
 the text of the caption itself.
 
-![alt text](style_table.png)
+![alt text](images/style_table.png)
 
 #### Caption for a Plotly Express Chart
 
@@ -374,7 +374,7 @@ gapminder2007.head(10).style.set_caption("Table 1: Life Expectancy and GDP").set
 ```
 
 
-![alt text](style_chart.png)
+![alt text](images/style_chart.png)
 
 # Bibliography
 

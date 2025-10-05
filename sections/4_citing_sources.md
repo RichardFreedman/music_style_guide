@@ -13,6 +13,70 @@ Notice that the author-date reference contains the _exact location of the materi
 
 Do <span style="text-decoration:underline;">not</span> include a URL or DOI for electronically accessed sources. Likewise, do <span style="text-decoration:underline;">not</span> specify “print” or “electronic” in notes and bibliographies for music courses. See [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) for further guidance on all other matters pertaining to citation, and models for many different types of publications you will need to cite (books, chapters in books, journal articles, reference works, scores, primary sources, etc.)
 
+### Citing Lyrics, Libretti, and Translations
+
+When citing lyrics or libretti, you should cite the source from which you obtained the text.  If you are using a published edition of a libretto, cite it as you would any other book.  If you are using a translation, cite the translator as well.
+
+Normally you will provide only enough of the given lyrics to support the point you are making, but it's possible that if you were analyzing the form and rhyme of an entire poem, you might need to provide the whole text.  
+
+Here is how you might quote a few lines from a poem, and along with an appropriate citation. First, here is the YOUR prose that introduces the quotation:
+
+> Heinrich Heine’s poem “Die Lorelei” begins not by describing the siren herself, but instead with the poetic speaker's own emotional turmoil:
+
+And now the quotation and translation:
+
+<blockquote>
+Ich weiß nicht, was soll es bedeuten,<br>
+Daß ich so traurig bin;<br>
+Ein Märchen aus alten Zeiten,<br>
+Das kommt mir nicht aus dem Sinn.<br>
+
+
+<br>
+Translation:<br>
+<br>
+I cannot tell you the reason why<br>
+I am feeling so sad;<br>
+Some tale they told in years gone by<br>
+Stays forever in my head.<br>
+</blockquote>
+<br>
+And here is the citation for the poem and translation, which belongs *immediately after* the quotation:
+
+>> “Die Lorelei.” Trans. Patrick Corness.  Liedernet Archive. URL: https://www.lieder.net/lieder/get_text.html?TextId=154799
+
+
+The same would hold for a **libretto**.  If you were quoting from a published edition of a libretto, you would cite it as you would any other book.
+
+Here is the YOUR prose that introduces the quotation:
+
+> In his spooky description of the famous Wolf's Glen scene in Weber's _Der Freischütz_ the librettist Friedrich Kind takes us into a dark and eerie world of the sublime.
+
+Now the cited passage (in this we're just going to offer the English translation):
+
+<blockquote>
+Change of scene<br>
+A terrible woodland glen, largely
+planted with pines, and surrounded
+by high mountains. A waterfall rushes
+down from one of them. The full moon
+shines wanly. Nearer to us a tree struck
+by lightening and withened, decayed
+inside so that it seems to glow. On a
+gnarled branch at the other side sits a
+huge owl with fiery, circling eyes. Crows
+and other woodbirds on other trees.
+</blockquote>
+
+<br>
+
+And here is the citation for the libretto, which belongs *immediately after* the quotation.  In this case the CD booklet provided the libretto, but did not identify a translator!
+
+<br>
+
+> Kind, Friedrich. 2019. *Der Freischütz*.  Libretto, translator unknown. Leipzig MDR Radio Choir, Frankfurt Radio Symphony, conducted by Marek Janowski.  Compact Disc. Pentatone.
+
+
 ### Citing Scores and Recordings
 
 See the [Music Example Guide](https://docs.google.com/document/d/1alBeVyXkABBwWlTiCMGBLB3hoO5f4sMm4wMnTVzDM4Y/edit) for guidance on Fair Use of copyrighted material.

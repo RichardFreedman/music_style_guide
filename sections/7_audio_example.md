@@ -63,11 +63,13 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 
 >The performance of Monteverdi’s “Tornate,” from the Settimo libro di madrigali, by the Concerto Italiano is especially effective in its emphasis of the opening dissonances (Audio Ex 3, 0:00-0:23;[ Listen Here](https://drive.google.com/file/d/173MegiokvrvqZNDa2J9tscAsngZea8cA/view?usp=share_link))
 
-10. **If you haven’t already done so, establish a list of examples at the end of your essay.** See the Music Dept. Style Sheet on how to format a audio citation, following note format. 
+### Add a reference to the list of examples at the end of your essay.
 
-> List of Audio Examples
+Regardless of which option you use, you will need to add a reference to your example in the list of examples at the end of your essay.  This will look something like this:
 
-> Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from Il Settimo libro di madrigali, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.
+> **List of Audio Examples**
+
+> Audio Example 3. The opening of Claudio Monteverdi’s “Tornato,” from *Il Settimo libro di madrigali*, performed by the Concerto Italiano, Naive OP7365, Track 6, 0:00-0:25.
 
 -----
 

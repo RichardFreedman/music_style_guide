@@ -55,9 +55,9 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 2. **Remember that you must comply with Fair Use principles**, which means taking no more than 10% of any track (and probably much less!).
 3. **Also be sure to take note of the source, track, and exact timing of your chosen passage,** which you need for example caption and list!
 4. **You will also want to record a short ‘shoulder’ passage** to allow you to make a fade in/out with **Fission** (Mac) or **Reaper** (Windows).
-5. **Label the resulting example file **as LASTNAME_CLASS_EX# (e.g., FREEDMAN_229_EX3.jpg). If it’s a still image, your example must be a JPEG, TIFF, or PDF file. If it’s a moving image, your example must be an MP4 file.
-6. **If you haven’t already done so for this essay, create an example folder **in Google Drive (HC) or OneDrive (BMC), labeled as LASTNAME_CLASS_EXAMPLES (e.g., FREEDMAN_229_EXAMPLES).
-7. If you haven’t already done so,** set your example folder sharing so that anyone with the link may view its contents**.
+5. **Label the resulting example** file **as LASTNAME_CLASS_EX# (e.g., FREEDMAN_229_EX3.jpg). If it’s a still image, your example must be a JPEG, TIFF, or PDF file. If it’s a moving image, your example must be an MP4 file.
+6. **If you haven’t already done so for this essay, create an example folder** *in Google Drive (HC) or OneDrive (BMC), labeled as LASTNAME_CLASS_EXAMPLES (e.g., FREEDMAN_229_EXAMPLES).
+7. If you haven’t already done so, **set your example folder sharing so that anyone with the link may view its contents**.
 8. **Upload your audio example file to your example folder**.
 9. **Add a parenthetical reference to the example at the appropriate point in your essay**. **Acquire the unique URL of your example file** and turn the parenthetical reference into a link (be sure to include a time reference!):
 

@@ -92,7 +92,7 @@ When you open any audio file in Fission you will come to the main editing window
 
 ![alt text](images/fiss_7.png)
 
-<br>
+
 
 ### Crop, Delete, Split, Insert Silence
 
@@ -100,7 +100,7 @@ These are probably the most important techniques, which help you find just the r
 
 ![alt text](images/fiss_4.png)
 
-<br>
+
 
 ### Fade In and Out, Volume Adjustment
 
@@ -108,7 +108,7 @@ Fades are another good technique to make good examples for presentations or to l
 
 ![alt text](images/fiss_5.png)
 
-<br>
+
 
 ### Format Conversion
 
@@ -117,7 +117,7 @@ Normally you will use mp3 files for your examples.  But there are a variety of d
 ![alt text](images/fiss_9.png)
 
 
-<br>
+
 
 ### Metadata
 
@@ -127,7 +127,7 @@ You can also edit metadata for each clip with Fission.  [Learn more in the manua
 
 ![alt text](images/fiss_8.png)
 
-<br>
+
 
 # Camtasia
 
@@ -172,7 +172,7 @@ Final exported ("rendered") files in MP4 (for video and audio), or MP3 (for audi
 
 ![alt text](images/cam_1.png)
 
-<br>
+
 
 ### The Main Editor
 
@@ -184,7 +184,7 @@ The main Camtasia editor will look something like this:
 * At the bottom:  playback controls, a 'time scale' adjustment (so you can zoom in or zoom out across time), and finally the "Canvas" itself, consisting of layers of audio and video tracks that make up your project.  
 * At the top right:  button to export your file.
 
-<br>
+
 
 ![alt text](images/cam_2.png)
 

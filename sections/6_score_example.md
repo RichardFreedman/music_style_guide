@@ -5,21 +5,21 @@
     **If the score you need is not available on IMSLP, get a hard copy from the library**. Guillermo can assist you. He can also advise you on copyright and usage. 
 
 2. **Extract from, crop, and/or convert the PDF** (or scanned image) to include only the necessary content. 
-3. **Add your example to your paper or WordPress site**, along with a caption that identifies the item and source:
+3. **Add your example to your paper**, along with a caption that identifies the item and source:
 
    <img width="695" alt="screenshot_1360" src="https://github.com/RichardFreedman/music_style_guide/assets/4398776/f8c6d58b-84e0-4d85-a728-325d54b2ad26">
 
-> Example 1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, _Das Wohltemperierte Klavier_, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7. 
+    Example 1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, _Das Wohltemperierte Klavier_, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7. 
 
 4. **Add a parenthetical reference to the example at the appropriate point in your essay**:
 
-> The opening of Bach’s Prelude in C-major from _Das Wohltemperierte Klavier_ establishes the home key in only a few bars (Ex. 1).
+    "The opening of Bach’s Prelude in C-major from _Das Wohltemperierte Klavier_ establishes the home key in only a few bars (Ex. 1)."
 
 5. **At the end of your essay, create a list of examples that provides citations**. Format score citations in the same manner as book citations, and use note format here. See the rules for citations elsewhere in this guide.    
 
->List of Examples
->
-> 1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, _Das Wohltemperierte Klavier_, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7.
+    List of Examples
+
+    1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, _Das Wohltemperierte Klavier_, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7.
 
 -----
 

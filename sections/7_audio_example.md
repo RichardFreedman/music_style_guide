@@ -84,4 +84,5 @@ Regardless of which option you use, you will need to add a reference to your exa
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
-- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](../audio_video_guide.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
+- [Jupyter Notebook Style Guide (Music 255)](11_jupyter_notebook_style_guide.md)

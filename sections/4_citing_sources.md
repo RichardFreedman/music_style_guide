@@ -111,7 +111,7 @@ For information about dates and performers, you can turn to the cover and notes 
 
 **Liner notes to recordings** are a special case, but are often worth citing for special insights about from the artists, or the nature of the project, or even for scholarly content:
 
-> Marissen, Michael. 2010. Liner Notes to Accompany Johann Sebastian Bach,  _St.   Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi. 
+> Marissen, Michael. 2010. Liner Notes to Accompany Johann Sebastian Bach,  _St.   Matthew Passion_. Collegium Vocale Gent. Philippe Herreweghe. With Ian Bostridge, Werner Güra, Susan Hamilton, et al. Harmonia Mundi.
 
 -----
 
@@ -126,4 +126,5 @@ For information about dates and performers, you can turn to the cover and notes 
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
-- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](../audio_video_guide.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
+- [Jupyter Notebook Style Guide (Music 255)](11_jupyter_notebook_style_guide.md)

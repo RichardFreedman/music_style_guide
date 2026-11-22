@@ -380,3 +380,19 @@ gapminder2007.head(10).style.set_caption("Table 1: Life Expectancy and GDP").set
 
 Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” *Critical Inquiry*
 30: 505-36.
+
+-----
+
+### Contents of This Guide
+
+- [Referring to Musical Works](1_works.md)
+- [Terminology, Hyphens and Dashes](2_terms.md)
+- [Writing About the Past](3_past.md)
+- [Citing Sources](4_citing_sources.md)
+- [Examples and Fair Use](5_examples_intro.md)
+- [Score Examples](6_score_example.md)
+- [Audio Examples](7_audio_example.md)
+- [Video Examples](8_video_example.md)
+- [Transcriptions and Figures](9_transcriptions_figures.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
+- [Jupyter Notebook Style Guide (Music 255)](11_jupyter_notebook_style_guide.md)

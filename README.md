@@ -28,6 +28,7 @@ In particular [Visit the Author-Date examples from the CMS](https://www.chicagom
 - [Audio Examples](sections/7_audio_example.md)
 - [Video Examples](sections/8_video_example.md)
 - [Transcriptions and Figures](sections/9_transcriptions_figures.md)
-- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](sections/10_audio_video_tech_guide.md)
+- [Jupyter Notebook Style Guide (Music 255)](sections/11_jupyter_notebook_style_guide.md)
 
 -----

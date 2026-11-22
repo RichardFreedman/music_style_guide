@@ -72,6 +72,7 @@ The word “movement” is not capitalized. Tempo designations serving as moveme
 >We studied the second movement of Beethoven’s Third Symphony.
 
 >We studied the Adagio of Beethoven’s Third Symphony.
+
 -----
 
 ### Contents of This Guide
@@ -85,6 +86,5 @@ The word “movement” is not capitalized. Tempo designations serving as moveme
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
-- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](../audio_video_guide.md)
-
------
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
+- [Jupyter Notebook Style Guide (Music 255)](11_jupyter_notebook_style_guide.md)

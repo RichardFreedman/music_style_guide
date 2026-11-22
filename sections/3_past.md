@@ -1,8 +1,13 @@
 ### Writing about the Past
 
+
+#### People
+
 Give the full name and dates of composers and other historical figures when they first appear in your narrative. Thereafter refer to the person by his or her last name, unless you are discussing multiple people with the same last name.
 
 Frédéric Chopin (1810–49) composed almost exclusively for the piano.
+
+#### Centuries and Epochs
 
 There are two correct ways to specify a century in formal prose. The first instance below is wrong because numbers under 100 must be written out.
 
@@ -16,7 +21,6 @@ There are two correct ways to specify a century in formal prose. The first insta
     CORRECT: Romanticism is associated with the 1800s.
 
 Never use an apostrophe when numerically writing a century or decade.
-
 
     INCORRECT: The Baroque era began in the 1600’s.
 
@@ -37,6 +41,7 @@ Be conscious of the counterintuitive manner in which centuries are numbered:
 
     the tenth century = the 900s
 
+#### The Historical Past Tense
 
 As a general rule, use the past tense when writing about the past, especially when describing the thoughts and actions of a deceased person.
 
@@ -45,7 +50,7 @@ As a general rule, use the past tense when writing about the past, especially wh
 
 Use the present tense when describing or analyzing music, even if it was written a long time ago. In the thick of a musical discussion, it can be appropriate to describe a composer’s actions in the present tense.
 
-    The primary theme is cheerful, but Mozart veers into the minor mode in the subsequent transition.  
+    The primary theme is cheerful, but Mozart veers into the minor mode in the subsequent transition.
 
 -----
 
@@ -60,4 +65,5 @@ Use the present tense when describing or analyzing music, even if it was written
 - [Audio Examples](7_audio_example.md)
 - [Video Examples](8_video_example.md)
 - [Transcriptions and Figures](9_transcriptions_figures.md)
-- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](../audio_video_guide.md)
+- [Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
+- [Jupyter Notebook Style Guide (Music 255)](11_jupyter_notebook_style_guide.md)

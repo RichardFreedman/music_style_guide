@@ -6,37 +6,55 @@ The names of major style periods are capitalized (Middle Ages, Renaissance, Baro
 
 #### Pitches and Keys
 
-When necessary use subscripts to specify the octave of a pitch.   For example: "Modern orchestras tune to an A<sub>4</sub>. C<sub>4</sub> is commonly known as middle C."  
+If you need to refer to a specific pitch, use the "Tone-Octave" system.  Middle C is C4.
+When necessary use subscripts to specify the octave of a pitch.   For example: 
+
+>"Modern orchestras tune to an A4."
+
+<br>
+
+>"C4 is commonly known as middle C."  
+
+Capitalize letters that specify pitches and keys. Do not use the number sign in place of a sharp sign or the letter b in place of a flat sign. Write these out, like this:   
+
+>"Although the song is in G major, the singer begins on an E flat."  
+
+#### Major and Minor
+
+The words “major” and “minor” are not capitalized unless they form part of a title. Do not use case to differentiate between major and minor. 
+
+>CORRECT: "Beethoven’s Fifth Symphony is in C minor."
+
+>INCORRECT: "Beethoven’s Fifth Symphony is in c minor."
 
 
-Capitalize letters that specify pitches and keys. Do not use the number sign in place of a sharp sign or the letter b in place of a flat sign. Write these out.   
+#### Sharps and Flats as Part of Key Names
 
-	"Although the song is in G major, the singer begins on an E flat."  
+Write sharp and flat keys with hyphens, like this: 
 
-Major and Minor as Terms on Their Own. The words “major” and “minor” are not capitalized unless they form part of a title. Do not use case to differentiate between major and minor. 
+>C-sharp minor
 
-	INCORRECT: "Beethoven’s Fifth Symphony is in c minor."
+<br>
 
-	CORRECT: "Beethoven’s Fifth Symphony is in C minor."
+>E-flat major 
 
-**Sharp and Flat Keys.**  As shown below in the section on hyphens, write sharp and flat keys like this: 
+#### Chord Qualities and Functions
 
-	C-sharp minor
-	E-flat major 
+Given the challenges of typing roman-numeral chords with figures, write out chord names.
 
+>"The accompaniment vacillates between a first-inversion tonic triad and a third-inversion dominant-seventh chord."
 
 #### Measures, Beats, Time Signatures
 
 Whenever possible, use phrases like “common time,” “triple meter,” and “duple meter” to avoid writing time signatures as fractions. 
 
-Given the challenges of typing roman-numeral chords with figures, write out chord names.
-
-	"The accompaniment vacillates between a first-inversion tonic triad and a third-inversion dominant-seventh chord."
-
 Write out the word “measure” and numbers under 100 unless they are in parentheses.
 
-	"The oboe solo begins in measure twenty-six.
-	The theme repeatedly leaps upward (mm. 2, 4, 6) before descending by step (m. 8)." 
+>"The oboe solo begins in measure twenty-six.
+
+<br>
+
+> The theme repeatedly leaps upward (mm. 2, 4, 6) before descending by step (m. 8)." 
 
 #### Dynamics and Other Performances Markings
 

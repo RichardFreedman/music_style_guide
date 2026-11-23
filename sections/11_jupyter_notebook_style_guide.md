@@ -15,10 +15,10 @@ learned and heard.
 Below you will learn:
 
 -   How to set up your notebook with Python libraries and add the
-    special Quarto markdown cell at the start
+> special Quarto markdown cell at the start
 -   The basics of markdown, and how to use it
 -   How to use headers and sections to guide your reader through your
-    work
+> work
 -   How to format text (bold, italics, and verbatim code)
 -   How to make sure you code is explained clearly with comments
 -   How to make lists (numbered and unumbered or bullet points)
@@ -34,46 +34,46 @@ your notebook to work with Quarto, you will need to include a special
 Yes, you need to include the `---` as the first and last line of this
 special cell.
 
-    ---
-    title: "Your Project Name"
-    author: 'Your Name'
-    date: 'Today's Date'
+> ---
+> title: "Your Project Name"
+> author: 'Your Name'
+> date: 'Today's Date'
 
-    format:
-      html:
-        code-fold: true
-        embed-resources: true
-    plotly-connected: true
-    jupyter: python3
+> format:
+>   html:
+> code-fold: true
+> embed-resources: true
+> plotly-connected: true
+> jupyter: python3
 
-    ---
+> ---
 
 You will need to import Python libraries needed for your work. But to
 make charts and graphs appear as they should in Quarto, you will also
 need to include some special code indicated after the imports:
 
-    # import libraries
-    from community import community_louvain
-    from copy import deepcopy
-    from IPython.display import SVG
-    import altair as alt
-    import glob as glob
-    import numpy as np
-    import os
-    import pandas as pd
-    import re
-    import networkx as nx
-    import plotly.express as px
-    import requests
+> # import libraries
+> from community import community_louvain
+> from copy import deepcopy
+> from IPython.display import SVG
+> import altair as alt
+> import glob as glob
+> import numpy as np
+> import os
+> import pandas as pd
+> import re
+> import networkx as nx
+> import plotly.express as px
+> import requests
 
-    # setup plotting for quarto
-    alt.renderers.enable('default')
-    import plotly.io as pio
-    pio.renderers.default = "plotly_mimetype+notebook_connected"
+> # setup plotting for quarto
+> alt.renderers.enable('default')
+> import plotly.io as pio
+> pio.renderers.default = "plotly_mimetype+notebook_connected"
 
-    # supress warnings
-    import warnings
-    warnings.filterwarnings('ignore')
+> # supress warnings
+> import warnings
+> warnings.filterwarnings('ignore')
 
 ``` python
 # import libraries
@@ -171,12 +171,12 @@ For a one-line snippet wrap your code in backtick marks like
 
 For any code longer than just a single line, follow this convention:
 
-    ```python
-    a = 1
-    b = 2
-    c = a + b
-    print(c)
-    ```
+> ```python
+> a = 1
+> b = 2
+> c = a + b
+> print(c)
+> ```
 
 See the [Quarto MD
 Guide](https://quarto.org/docs/authoring/markdown-basics.html#text-formatting).
@@ -234,7 +234,7 @@ multiplied_numbers = [number * constant for number in numbers]
 print("The list after constant multiplication:", multiplied_numbers)
 ```
 
-    The list after constant multiplication: [16, 20, 24, 12, 36]
+> The list after constant multiplication: [16, 20, 24, 12, 36]
 
 # Citations and Linked URLS
 
@@ -285,18 +285,18 @@ Guide](https://quarto.org/docs/authoring/markdown-basics.html#lists):
 
 ### Bulleted Lists (Unordered)
 
-    * unordered list item
-    * another item
-        + sub-item 1
-        + sub-item 2
-            - sub-sub-item 1
+> * unordered list item
+> * another item
+> + sub-item 1
+> + sub-item 2
+>>  - sub-sub-item 1
 
 ### Numbered Lists (Ordered)
 
-    1. first itme
-    2. second item
-        i) sub-item 1
-             A.  sub-sub-item 1
+> 1. first itme
+> 2. second item
+> i) sub-item 1
+>>   A.  sub-sub-item 1
 
 # Tables, Figures and Captions
 
@@ -329,11 +329,11 @@ label. Do it this way:
 
 ``` python
 gapminder2007.head(20).style.set_caption("Table 1: Life Expectancy Data").set_table_styles([{
-    'selector': 'caption',
-    'props': [
-        ('color', 'black'),
-        ('font-size', '24px')
-    ]
+> 'selector': 'caption',
+> 'props': [
+> ('color', 'black'),
+> ('font-size', '24px')
+> ]
 }])
 ```
 
@@ -353,10 +353,10 @@ gapminder = px.data.gapminder()
 
 gapminder2007 = gapminder.query("year == 2007")
 fig = px.scatter(gapminder2007, 
-                 x="gdpPercap", y="lifeExp", color="continent", 
-                 size="pop", size_max=60,
-                 hover_name="country",
-                 title="Figure 1:  Bubble Chart of GDP and Life Expectancy")
+> >  x="gdpPercap", y="lifeExp", color="continent", 
+> >  size="pop", size_max=60,
+> >  hover_name="country",
+> >  title="Figure 1:  Bubble Chart of GDP and Life Expectancy")
 fig.show()
 ```
 
@@ -365,11 +365,11 @@ fig.show()
 gapminder = px.data.gapminder()
 gapminder2007 = gapminder.query("year == 2007")
 gapminder2007.head(10).style.set_caption("Table 1: Life Expectancy and GDP").set_table_styles([{
-    'selector': 'caption',
-    'props': [
-        ('color', 'black'),
-        ('font-size', '24px')
-    ]
+> 'selector': 'caption',
+> 'props': [
+> ('color', 'black'),
+> ('font-size', '24px')
+> ]
 }])
 ```
 

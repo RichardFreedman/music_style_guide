@@ -26,10 +26,10 @@ Like audio examples, video examples are forms of evidence, and can be a great wa
 > **List of Video Examples**
 >
 > Video Example 4. Wolfgang Amadeus Mozart, *Die Zauberflöte*, Act I, Scene 5, Joana Mallwit, Conductor, Vienna Philharmonic and Salzburg Festival Production, Unitel 2022, 29:40-30:05.  
-        
+> 
 ### Refering to Both Audio and Video Examples
 
-Some claims benefit from the support of **both a score excerpt and an audio or video segment**. When one example supplements another, construct your parenthetical reference as follows:    
+Some claims benefit from the support of **both a score excerpt and an audio or video segment**. When one example supplements another, construct your parenthetical reference as follows:> 
 
 > Jarrett’s arpeggios in the opening of the prelude are especially lyrical  (Ex. 1 with Ex. 2, 00:00–00:06). 
 

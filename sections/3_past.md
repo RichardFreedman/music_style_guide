@@ -1,13 +1,19 @@
-### Writing about the Past
+# Writing About the Past
+
+**On this page:**
+
+- [People](#people)
+- [Centuries and Epochs](#centuries-and-epochs)
+- [The Historical Past Tense](#the-historical-past-tense)
 
 
-#### People
+### People
 
 Give the full name and dates of composers and other historical figures when they first appear in your narrative. Thereafter refer to the person by his or her last name, unless you are discussing multiple people with the same last name.
 
 Frédéric Chopin (1810–49) composed almost exclusively for the piano.
 
-#### Centuries and Epochs
+### Centuries and Epochs
 
 There are two correct ways to specify a century in formal prose. The first instance below is wrong because numbers under 100 must be written out.
 
@@ -41,7 +47,7 @@ Be conscious of the counterintuitive manner in which centuries are numbered:
 
 > the tenth century = the 900s
 
-#### The Historical Past Tense
+### The Historical Past Tense
 
 As a general rule, use the past tense when writing about the past, especially when describing the thoughts and actions of a deceased person.
 

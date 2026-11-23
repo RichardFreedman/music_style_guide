@@ -1,8 +1,19 @@
-### Referring to Musical Works
+# Referring to Musical Works
+
+
 The word “song” does not apply to all music. Use it only when referring to actual songs (i.e., short, self-standing, solo vocal works). Otherwise, use the appropriate genre label (e.g., opera, symphony, or concerto) or a more abstract designation such as “piece” or “work.”
 
+**On this page:**
 
-#### Titles that Include Genres
+- [Titles that Include Genres](#titles-that-include-genres)
+- [Genres (on their own)](#genres-on-their-own)
+- [Opus and Catalog Numbers](#opus-and-catalog-numbers)
+- [Operas, Song Cycles, and Other Larger Works](#operas-song-cycles-and-other-larger-works)
+- [Albums and Songs](#albums-and-songs)
+- [Movements and Sections](#movements-and-sections)
+
+
+## Titles that Include Genres
 
 **Generic titles of specific works *are* capitalized** but do not require italics. (As shown below, however, italics are used for other kinds of titles.)
 
@@ -21,7 +32,7 @@ It is also good practice to *include the date of a work* when referring to it fo
 >This paper discusses Mozart’s Requiem in D Minor, K. 626_ _(1791).
 
 
-#### Genres (on their own)
+## Genres (on their own)
 
 **Genres are not capitalized** and do not require italics:
 
@@ -36,7 +47,7 @@ It is also good practice to *include the date of a work* when referring to it fo
 >By infusing traditional country with rock, Garth Brooks secured a massive following.  
 
 
-#### Opus and Catalog Numbers
+## Opus and Catalog Numbers
 
 Not all works have serial numbers and familiar titles. For many composers an **opus number** is used in place of a catalog number.
 
@@ -55,7 +66,7 @@ Not all works have serial numbers and familiar titles. For many composers an **o
 >Schubert, Piano Quintet in A Major, D. 667 (“Trout”)
 
 
-#### Operas, Song Cyles, and Other Larger Works
+## Operas, Song Cycles, and Other Larger Works
 
 Titles of **larger works with author-assigned names** (e.g., operas, ballets, song cycles, and orchestral works with non-generic titles) are capitalized *and* require italics.
 
@@ -66,7 +77,7 @@ Titles of **larger works with author-assigned names** (e.g., operas, ballets, so
 >Beethoven’s *Egmont*, op. 84 comprises incidental music for Goethe’s play of the same name.
 
 
-#### Albums and Songs
+## Albums and Songs
 
 **Short vocal works** (e.g., songs and numbers from operas) and titled movements of instrumental works require capitalization and quotation marks. In jazz and popular music, **album titles** are italicized and **tracks titles** go in quotation marks.
 
@@ -78,7 +89,7 @@ Titles of **larger works with author-assigned names** (e.g., operas, ballets, so
 
 >“So What” opens Miles Davis’s iconic album *Kind of Blue*.
 
-#### Movements and Sections
+## Movements and Sections
 
 **The word “movement” is not capitalized**. Tempo designations serving as movement titles are capitalized. 
 

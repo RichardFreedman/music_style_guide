@@ -1,10 +1,16 @@
-### Video Examples
+# Video Examples
 
 Like audio examples, video examples are forms of evidence, and can be a great way to help your reader follow arguments about operas, films, and performances.
 
+**On this page:**
+
+- [How to Make Video Excerpts](#how-to-make-video-excerpts)
+- [How to Find and Cite Video Sources](#how-to-find-and-cite-video-sources)
+- [Referring to Both Audio and Video Examples](#referring-to-both-audio-and-video-examples)
+
 ### How to Make Video Excerpts
 
-[Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)
+[Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
 
 ### How to Find and Cite Video Sources
 
@@ -27,7 +33,7 @@ Like audio examples, video examples are forms of evidence, and can be a great wa
 >
 > Video Example 4. Wolfgang Amadeus Mozart, *Die Zauberflöte*, Act I, Scene 5, Joana Mallwit, Conductor, Vienna Philharmonic and Salzburg Festival Production, Unitel 2022, 29:40-30:05.  
 > 
-### Refering to Both Audio and Video Examples
+### Referring to Both Audio and Video Examples
 
 Some claims benefit from the support of **both a score excerpt and an audio or video segment**. When one example supplements another, construct your parenthetical reference as follows:> 
 

@@ -1,13 +1,22 @@
-### Citing Written Sources
+# Citing Written Sources
+
+**On this page:**
+
+- [The Author-Date System](#the-author-date-system)
+- [Quotation and Author-Date Reference Go in the Body](#quotation-and-author-date-reference-go-in-the-body)
+- [Complete Reference Goes at the End](#complete-reference-goes-at-the-end)
+- [Citing Electronic Resources](#citing-electronic-resources)
+- [Citing Lyrics, Libretti, and Translations](#citing-lyrics-libretti-and-translations)
+- [Citing Scores](#citing-scores)
+- [Citing Audio and Video Recordings](#citing-audio-and-video-recordings)
 
 
+### The Author-Date System
+We use the **Author-Date** system for referencing writings about music, scores, and other supporting evidence.  You can read more about the system here on the [Chicago Manual of Style web resource.](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html), which provides excellent guidance on all other matters pertaining to citation, and models for many different types of publications you will need to cite (books, chapters in books, journal articles, reference works, scores, primary sources, etc.)
 
-#### The Author-Date System
-We use the **Author-Date** system for referencing writings about music, scores, and other supporting evidence.  In it, You can read more about the system here on the [Chicago Manual of Style web resource.](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html), which provides excellent guidance on all other matters pertaining to citation, and models for many different types of publications you will need to cite (books, chapters in books, journal articles, reference works, scores, primary sources, etc.)
+It’s seldom necessary to clutter your narrative with titles and dates of scholarly works. It’s normally sufficient to name the author, relying on the subsequent Author-Date (plus page) reference to provide the remaining information.  Readers then turn to your bibliography or list of works cited to learn more about the details of the fact of publication.
 
-It’s seldom necessary to clutter your narrative with titles and dates of scholarly works. It’s normally sufficient to name the author, relying on the subsequent Author-Date (plus page) reference to provide the remaining information.  Readers then turn to your bibliography of list of works cited to learn more about the details of the fact of publication.
-
-#### Quotation and Author-Date Reference Go in the Body
+### Quotation and Author-Date Reference Go in the Body
 
 For example, in the body of your argument you might write:
 
@@ -15,7 +24,7 @@ For example, in the body of your argument you might write:
 
 See many other examples in the [Chicago Manual of Style web resource.](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
 
-#### Complete Reference Goes at the End
+### Complete Reference Goes at the End
 
 Notice that the author-date reference contains the _exact location of the material you are quoting_ or referring to. The bibliography is the place for the _full details about where to find this particular publication_.  In the author-date system, we provide the full details of the **publication** in the bibliography, including (as appropriate):
 
@@ -31,7 +40,7 @@ The result looks like this:
 
 See many other examples in the [Chicago Manual of Style web resource.](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
 
-#### Citing Electronic Resources
+### Citing Electronic Resources
 
 Some items are of 'born digital'.  There is no print or print equivalent title.  Here is Chicago Manual of Style suggests we handle these:
 
@@ -106,7 +115,7 @@ And here is the citation for the libretto, which belongs *immediately after* the
 > Kind, Friedrich. 2019. *Der Freischütz*.  Libretto, translator unknown. Leipzig MDR Radio Choir, Frankfurt Radio Symphony, conducted by Marek Janowski.  Compact Disc. Pentatone.
 
 
-### Citing Scores and Recordings
+### Citing Scores
 
 See the [Music Example Guide](5_examples_intro.md) for guidance on Fair Use of copyrighted material.
 
@@ -116,6 +125,7 @@ See the [Music Example Guide](5_examples_intro.md) for guidance on Fair Use of c
 
 > Liszt, Franz. 1978. _Années de pèlerinage: Première année, Suisse_. Munich: Henle Verlag.
 
+### Citing Audio and Video Recordings
 
 **Audio and video recordings** require some special treatment:  publishers often obscure the date of the publication (since audiences sometimes want something “new”), and there often is no “place” of publication as in a book.  Finally, you will need to adapt these references according to the genre and type of music. A performance of a work by Bach might be listed under his name.  A jazz rendition of a popular tune would be listed under the names of the performers or ensemble. 	
 

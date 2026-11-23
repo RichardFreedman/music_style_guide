@@ -24,7 +24,7 @@ For images, you should seek out authorized images from museums or collections, s
 
 Diagrams, charts, or other custom markup can be created with programs like Google Draw. 
 
-Save your Figure in PNG format for use in Word, Google Docs, or WordPress.
+Save your figure in PNG format for use in Word, or Gdocs, etc.
 
 Unless figures are prohibitively large, label them as follows and include them in the body of your essay. Note the use of boldface, and be sure to number figures separately from examples.
 

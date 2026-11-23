@@ -1,6 +1,12 @@
-### Audio Examples
+# Audio Examples
 
 What can you use as an audio example, and how will your reader know where you found it and how to access it?  
+
+**On this page:**
+
+- [How to Make Audio Excerpts](#how-to-make-audio-excerpts)
+- [How to Find and Cite Audio Sources](#how-to-find-and-cite-audio-sources)
+- [List of Examples at the End](#list-of-examples-at-the-end)
 
 * Remember that according to **Fair Use** principles, you need to extract the _minimum_ needed to make your point, and to surround the excerpt with commentary or mark it up in some way.
 
@@ -10,7 +16,7 @@ What can you use as an audio example, and how will your reader know where you fo
 
 ### How to Make Audio Excerpts
 
-* [Making Audio and Video Examples with Hijack, Fission, and Camtasia](audio_video_guide.md)
+* [Making Audio and Video Examples with Hijack, Fission, and Camtasia](10_audio_video_tech_guide.md)
 
 ### How to Find and Cite Audio Sources
 
@@ -63,7 +69,7 @@ Particularly if your example is from a Music Library CD, LP, or other physical r
 
 >The performance of Monteverdi’s “Tornate,” from the Settimo libro di madrigali, by the Concerto Italiano is especially effective in its emphasis of the opening dissonances (Audio Ex 3, 0:00-0:23;[ Listen Here](https://drive.google.com/file/d/173MegiokvrvqZNDa2J9tscAsngZea8cA/view?usp=share_link))
 
-### Add a reference to the list of examples at the end of your essay.
+### List of Examples at the End
 
 Regardless of which option you use, you will need to add a reference to your example in the list of examples at the end of your essay.  This will look something like this:
 

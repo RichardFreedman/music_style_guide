@@ -1,10 +1,18 @@
-### Score Examples
+# Score Examples
 
 Scores are also quotable texts, and can be a key part of supporting your argument.  Here are some guidelines on how to cite them properly.
 
+**On this page:**
+
+- [Getting the Score](#getting-the-score)
+- [Get Your Example](#get-your-example)
+- [Original Transcriptions](#original-transcriptions)
+- [Body Reference, Image, and Caption](#body-reference-image-and-caption)
+- [List of Examples at the End](#list-of-examples-at-the-end)
 
 
-#### Getting the Score
+
+### Getting the Score
 
 Let's say you're writing about [the first volume of J.S. Bach's Well Tempered Clavier](https://imslp.org/wiki/Das_wohltemperierte_Klavier_I,_BWV_846-869_(Bach,_Johann_Sebastian)). In the case of a well known work like this, there are many printed editions to choose from, even manuscripts. Indeed, your argument might even hinge on something peculiar to a given edition, such as dynamic or phrase markings suggested by a particular editor.
 
@@ -15,7 +23,7 @@ We have many editions in the Music Library.  Or you could download a PDF from [I
 If the score you need is not available on IMSLP, get a hard copy from the [Harris Music Library](https://guides.library.haverford.edu/c.php?g=285015&p=6584087). Guillermo can assist you. He can also advise you on copyright and usage. 
 
 
-#### Get Your Example
+### Get Your Example
 
 If you are working with a PDF from IMSLP, you should be able to use any standard screen shot program or PDF viewer to get just the pages (or parts of pages) that you need.  If you have a physical copy of the score, then use one of Library scanner to make a good image of it (taking a picture with your phone will *not* produce a satisfactory result).  
 
@@ -25,14 +33,14 @@ You will also want to *crop* the image to show just the relevant passages--but b
 
 Be sure to *name* the digital file with something meaningful, so that you can keep track of the sources and clips.  For example you might want to name the files by composer, piece, and measures ('Bach_WTC_1_4-10.png').  Keep all your source PDFs and the excerpts in a designated folder with your work, so that you don't mix them up.
 
-#### Original Transcriptions
+### Original Transcriptions
 
 Sometimes you might need to make an original transcription of a performance (recorded or live).  In that case you will need to use Sibelius or MuseScore to score things up, then save the result as JPEG, TIFF, or PDF file. If you need assistance with Sibelius or other notation software, please contact Guillermo Gómez (ggomez1@haverford.edu).
 
 Then follow with the steps below, creating the reference and caption.
 
 
-#### Body Reference, Image, and Caption
+### Body Reference, Image, and Caption
 
 Now you are ready to add the image to your paper.  Short examples (part of a page) can be worked into the flow of the text, right *after* the paragraph in which the example is first referenced.  Longer examples (a full page or more) can go at the *end* of the paper.  This is in fact how a publisher would want them:  as separate files.
 
@@ -49,7 +57,7 @@ The **caption** goes with the image. Note that we also include a *page number* i
 > Example 1.  The opening five measures of Johann Sebastian Bach’s Prelude in C-major, from, *Das Wohltemperierte Klavier*, ed. Carl Czerny, vol. 1 (Leipzig: Peters, 1863), 7. 
 
 
-#### List of Examples at the End
+### List of Examples at the End
 
 At the end of your essay, create a list of examples that provides citations. Format score citations in the same manner as book citations, and use note format here. See the rules for citations elsewhere in this guide.> 
 

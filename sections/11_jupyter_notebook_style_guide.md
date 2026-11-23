@@ -65,6 +65,15 @@ cell (complete with your comments). Otherwise they will only see the
 output. This is why including print statements and other explanatory
 commentary in the markdown cells is crucial!
 
+In HTML output the code blocks will normally be 'folded' and thus hidden.  The charts and other outputs will be dynamic:
+
+>![alt text](../images/folded.png)
+
+Users have the option to click and 'unfold' the code.  The code will not work, but it will be correctedly formatted.
+
+>![alt text](../images/unfolded.png)
+
+
 ### The Import Statement: Loading Python Libraries
 
 You will need to import Python libraries needed for your work. But to

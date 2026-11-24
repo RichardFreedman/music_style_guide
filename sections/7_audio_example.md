@@ -12,7 +12,7 @@ What can you use as an audio example, and how will your reader know where you fo
 
 * **Each example will need to be documented with a caption showing where it came from** (source, track, timing), and **each example will need to be listed along with all your other score and video examples** at the end of your paper.
 
-* Finally, the file for **each example (mp3, mp4) will need to be accessible** for your readers via Gdrive, Box, or in a WordPress site.
+* Finally, the file for **each example (mp3, mp4) will need to be accessible** for your readers via Gdrive, Box, or some other resource.
 
 ### How to Make Audio Excerpts
 

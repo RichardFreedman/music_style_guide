@@ -16,8 +16,7 @@ The names of major style periods are capitalized (Middle Ages, Renaissance, Baro
 
 ### Pitches and Keys
 
-If you need to refer to a specific pitch, use the "Tone-Octave" system.  Middle C is C4.
-When necessary use subscripts to specify the octave of a pitch.   For example: 
+If you need to refer to a specific pitch, use the "Tone-Octave" system.  Middle C is C4. For example: 
 
 >"Modern orchestras tune to an A4."
 
